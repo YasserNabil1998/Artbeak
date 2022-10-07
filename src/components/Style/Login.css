@@ -1,0 +1,186 @@
+/* overflow: hidden; */
+
+.login {
+  width: 832px;
+  height: 521px;
+  margin-top: 32px;
+  background: #FFFFFF;
+  border: 1px solid #CACACB;
+  border-radius: 15px;
+  margin-bottom: 99px;
+  margin-left: 258px;
+
+}
+
+.titel h1 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 33px;
+  color: #51459E;
+  text-align: center;
+  margin-top: 48px;
+  margin-bottom: 127px;
+  margin-left: -23px;
+
+}
+
+.login .top {
+  width: 258.89px;
+  height: 177.18px;
+  border: 1px solid #51459E;
+  border-radius: 7.74086px;
+  margin-left: 140px;
+  margin-top: -30px;
+  text-align: center;
+}
+
+.login .top .form-check {
+  margin-top: 35px;
+}
+
+.login .top input {
+  width: 10px;
+  height: 10px;
+  margin-left: 54px;
+  margin-top: -13px;
+}
+
+.login .top label {
+  margin-left: -30px;
+  font-size: 12px;
+  position: absolute;
+  margin-top: -16px;
+}
+
+.login .top p {
+  margin-top: -11px;
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.9014px;
+  line-height: 15px;
+  text-align: center;
+}
+
+.login .top img {
+  margin-top: -4px;
+  margin-left: -7px;
+  width: 52px;
+  height: 60px;
+}
+
+/* button */
+
+.login .button {
+  width: 269.89px;
+  height: 177.18px;
+  margin-left: 23px;
+  border: 0.5px solid #CCCCCC;
+  border-radius: 7.74086px;
+  margin-top: -30px;
+}
+
+.login .button .form-check {
+  margin-top: 35px;
+}
+
+.login .button input {
+  width: 10px;
+  height: 10px;
+  margin-left: 57px;
+  margin-top: -13px;
+}
+
+.login .button label {
+  margin-left: 82px;
+  font-size: 12px;
+  position: absolute;
+  margin-top: -16px;
+}
+
+.login .button p {
+  margin-top: -11px;
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.9014px;
+  line-height: 15px;
+  text-align: center;
+}
+
+.login .button img {
+  margin-top: -4px;
+  margin-left: 94px;
+  width: 52px;
+  height: 60px;
+}
+
+/* accont */
+.login .accont {
+  margin-top: 55px;
+  text-align: center;
+  margin-left: -7px;
+}
+
+.login .accont button {
+  background: #51459E;
+  border-radius: 15px;
+  width: 226px;
+  height: 37px;
+  border: none;
+}
+
+.login .accont button a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 16px;
+  color: #84E8F4;
+  margin-left: -4px;
+
+}
+
+.login .accont p {
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #000000;
+  margin-top: 16px;
+}
+
+.login .accont a {
+  color: #51459E;
+}
+
+@media screen and (max-width: 450px) {
+  .container {
+    max-width: 370px;
+  }
+
+  .logo {
+    margin-left: -20px;
+    display: grid;
+  }
+
+  .login {
+    margin-left: 43px;
+    width: 89%;
+    height: 672px;
+  }
+
+  .login .top {
+    margin-left: 52px;
+    margin-top: -67px;
+  }
+
+  .login .button {
+    margin-left: 49px;
+    margin-top: 30px;
+  }
+}

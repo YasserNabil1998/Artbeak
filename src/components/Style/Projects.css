@@ -1,0 +1,231 @@
+.project {
+  margin-top: 30px;
+  margin-bottom: 116px;
+}
+
+.project .top {
+  margin-bottom: 30px;
+  background: #51459E;
+  box-shadow: 0px 11.5735px 36.3739px rgb(81 69 158 / 20%);
+  border-radius: 15px;
+  margin-left: -4px;
+  margin-top: 31px;
+  height: 200px;
+  width: 1140px;
+}
+
+.project .top h2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 27px;
+  color: #84E8F4;
+  margin-left: 32px;
+  padding-top: 33px;
+  margin-bottom: 15px;
+}
+
+.project .top p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #DEE1E6;
+  opacity: 0.8;
+  margin-left: 32px;
+  margin-bottom: 28px;
+}
+
+.project .top button {
+  background: #84E8F4;
+  border-radius: 410px;
+  margin-left: 33px;
+  margin-bottom: 29px;
+  width: 99px;
+  height: 37px;
+  border: none;
+  margin-top: 3px;
+}
+
+.project .top button a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 13px;
+  color: #51459E;
+  padding-bottom: 14px;
+  padding-right: 1px;
+  margin-top: 1;
+  padding-top: 14px;
+}
+
+
+
+
+.project .button {
+  background: #FFFFFF;
+  border: 1px solid #CACACB;
+  border-radius: 15px;
+  margin-left: -4px;
+  width: 1140px;
+  height: 538px;
+}
+
+.project .buttons {
+  display: flex;
+  margin-top: 31px;
+  margin-bottom: 51px;
+  margin-left: 29px;
+}
+
+.project .button .buttons h3 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 6px;
+}
+
+.project .button .buttons span {
+  margin-left: 919px;
+  right: 10.61%;
+  top: 30.21%;
+  color: #51459E;
+}
+
+.project .button .buton {
+  margin-bottom: 51px;
+  margin-left: 29px;
+}
+
+/* buton-own */
+.project .button .buton .buton-own {
+  width: 1102px;
+  height: 50px;
+  border: 1px solid #CCCCCC;
+  border-radius: 10px;
+  margin-top: -6px;
+  margin-left: -11px;
+  display: flex !important;
+}
+
+.project .button .buton .buton-own .p-own {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 20px;
+  margin-top: 16px;
+}
+
+.project .button .buton .buton-own .p-tow {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 99px;
+  margin-top: 15px;
+}
+
+.project .button .buton .buton-own .p-the {
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 130px;
+  margin-top: 16px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #CCCCCC;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+}
+
+.project .button .buton .buton-own .p-for {
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 239px;
+  margin-top: 16px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 16px;
+  letter-spacing: -0.161753px;
+  color: #51459E;
+}
+
+/* buton-tow */
+.project .button .buton .buton-tow {
+  width: 1102px;
+  height: 50px;
+  border: 1px solid #CCCCCC;
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-left: -11px;
+  display: flex !important;
+}
+
+.project .button .buton .buton-tow .p-own {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 20px;
+  margin-top: 16px;
+}
+
+.project .button .buton .buton-tow .p-tow {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 99px;
+  margin-top: 15px;
+}
+
+.project .button .buton .buton-tow .p-the {
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 130px;
+  margin-top: 16px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #CCCCCC;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+}
+
+.project .button .buton .buton-tow .p-for {
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 239px;
+  margin-top: 16px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 16px;
+  letter-spacing: -0.161753px;
+  color: #51459E;
+}

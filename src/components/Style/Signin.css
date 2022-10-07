@@ -1,0 +1,208 @@
+.sigin {
+  width: 834px;
+  height: 691px;
+  margin-top: 31px;
+  border: 1px solid #CACACB;
+  border-radius: 15px;
+  margin-bottom: 100px;
+}
+
+.sigin h1 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 33px;
+  color: #51459E;
+  text-align: center;
+  margin-top: 49px;
+}
+
+.sigin .top {
+  margin-top: 86px;
+}
+
+.sigin .top .button-googel {
+  width: 576px;
+  height: 43px;
+  margin-left: 105px;
+  margin-top: -9px;
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+  border: 1px solid #000000;
+  border-radius: 21.5px;
+}
+
+.sigin .top .button-googel img {
+  width: 26px;
+  height: 26px;
+  margin-left: -210px;
+  top: 303px;
+  position: absolute;
+}
+
+.sigin .top .button-googel span {
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+  margin-left: -1%;
+}
+
+.sigin .button {
+  margin-top: 16px;
+}
+
+.sigin .button .button-googel {
+  width: 576px;
+  height: 43px;
+  margin-left: 105px;
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+  border: 1px solid #000000;
+  border-radius: 21.5px;
+}
+
+.sigin .button .button-googel img {
+  width: 40px;
+  height: 30px;
+  margin-left: -210px;
+  top: 360px;
+  position: absolute;
+}
+
+.sigin .button .button-googel span {
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+  margin-left: 0%;
+}
+
+.sigin .hr {
+  margin-top: 51px;
+  display: flex;
+}
+
+.sigin .hr .hr-left {
+  width: 390px;
+  height: 0px;
+  margin-left: -11.5px;
+  border: 1px solid #CACACB;
+}
+
+.sigin .hr .hr-or {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #000000;
+  margin-top: -9px;
+  margin-left: 10px;
+}
+
+.sigin .hr .hr-right {
+  width: 408px;
+  height: 0px;
+  margin-left: 30.5%;
+  border: 1px solid #CACACB;
+  position: absolute;
+}
+
+.form {
+  margin-top: 59px;
+}
+
+.form .top-input {
+  width: 576px;
+  height: 48px;
+  margin-left: 13%;
+  border-radius: 7px;
+  margin-top: -6px;
+}
+
+.form .button-input {
+  width: 576px;
+  height: 48px;
+  margin-left: 13%;
+  border-radius: 7px;
+  margin-top: 7px;
+}
+
+.form .top-input div {
+  height: 49px;
+}
+
+.form .button-input input {
+  height: 14px;
+}
+
+.forget{
+  margin-top: -19px;
+}
+
+.forget a {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #51459E;
+  margin-left: 41%;
+}
+.forget label{
+  margin-left: 12%;
+}
+.forget .MuiFormControlLabel-label {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #51459E;
+}
+/* accont */
+.accont {
+  margin-top: -1px;
+  text-align: center;
+  margin-left: -10px;
+}
+
+.accont button {
+  background: #51459E;
+  border-radius: 15px;
+  width: 576px;
+  height: 53px;
+  border: none;
+}
+
+.accont button a {
+
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  color: #84E8F4;
+
+
+}
+
+.accont p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #000000;
+  margin-top: 16px;
+  margin-left: -19px;
+}
+
+.accont a {
+  color: #51459E;
+  margin-left: 5px;
+}

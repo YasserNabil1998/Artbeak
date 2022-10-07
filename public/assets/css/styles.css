@@ -1,0 +1,568 @@
+/* CSS Document */
+
+.container {
+  max-width: 1140px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #ffffff;
+  font-family: 'Factor A' !important;
+  flex-direction: column;
+}
+
+/* .left .Profile {
+  position: absolute;
+} */
+
+
+/*  Responsive  tablet */
+@media screen and (max-width: 768px) {
+
+  .container {
+    max-width: 720px;
+  }
+
+  /* nav */
+  #menu-icon {
+    position: absolute;
+    margin-left: 84%;
+    font-size: 22px;
+    display: block;
+
+  }
+
+  .logo {
+    margin-left: -20px;
+    display: grid;
+  }
+
+  .links {
+    display: none;
+  }
+
+  .left {
+    display: none;
+  }
+
+  .top .top-top {
+    margin: auto;
+  }
+
+  .top .top-top .buttons p {
+    position: relative;
+    margin-left: -1%;
+    margin-top: -16%;
+    right: 0;
+  }
+
+  .top .top-top .buttons span {
+    position: relative;
+    margin-left: -2%;
+    top: 44%;
+    right: 0;
+  }
+
+  .top .top-top .buttons strong {
+    position: relative;
+    left: 60.97%;
+    top: 40.65%;
+  }
+
+  .top .top-top .buttons .img {
+    position: relative;
+    left: 308px;
+    top: 16.5px;
+  }
+
+  .top .top-top .buttonss p {
+    position: relative;
+    left: 11%;
+    right: 0;
+    top: -61%;
+  }
+
+  .top .top-top .buttonss span {
+    position: relative;
+    left: 11%;
+    right: 0;
+    top: -94%;
+  }
+
+  .top .top-top .buttonss strong {
+    position: relative;
+    left: 58.97%;
+    right: 54.1%;
+    top: -110.35%;
+  }
+
+  .top .top-top .buttons {
+    width: 514px;
+  }
+
+  .top .top-top .buttonss .img {
+    position: relative;
+    left: 295px;
+    top: -65.5px;
+  }
+
+  .top .top-top .buttonsss p {
+    position: relative;
+    left: 11%;
+    right: 0;
+    top: -60%;
+  }
+
+  .top .top-top .buttonsss span {
+    position: relative;
+    left: 11%;
+    right: 0;
+    top: -91%;
+  }
+
+  .top .top-top .buttonsss strong {
+    position: relative;
+    left: 59.97%;
+    right: 54.1%;
+    top: -109.35%;
+  }
+
+  .top .top-top .buttonsss .img {
+    position: relative;
+    left: 299px;
+    top: -65.5px;
+  }
+
+  .top .top-top .buttons {
+    width: 514px;
+  }
+
+  .top .top-top .buttonss {
+    width: 514px;
+  }
+
+  .top .top-top .buttonsss {
+    width: 514px;
+  }
+
+  .top-top .open {
+    position: absolute;
+    left: 61.58%;
+    top: 137.27%;
+  }
+
+  .top .top-button {
+    margin: auto;
+    margin-top: 17px;
+  }
+
+  .top-links {
+    margin-left: -4px;
+  }
+
+  .top .top-button .buttons p {
+    position: relative;
+    left: 4.67%;
+    top: 35.28%;
+  }
+
+  .top .top-button .buttons a {
+    position: relative;
+    left: 29.65%;
+    top: 36.42%;
+  }
+
+  .top .top-button .buttonss p {
+    position: relative;
+    left: 4.67%;
+    top: 35.28%;
+  }
+
+  .top .top-button .buttonss a {
+    position: relative;
+    left: 30.65%;
+    top: 36.42%;
+  }
+
+  .top-button .open {
+    position: absolute;
+    left: 61.58%;
+    top: 220.27%;
+  }
+
+  .beta {
+    width: 550px;
+    position: relative;
+  }
+
+  .beta h4 {
+    position: relative;
+    left: 4.32%;
+    right: 0;
+    top: 44%;
+  }
+
+  .beta button {
+    left: calc(50% - 202px/2 + 152.29px);
+    top: -1%;
+    position: relative;
+  }
+
+  #footer {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+
+  .top-welcom {
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  #menu-icon {
+    margin-left: 81%;
+  }
+
+  .top-welcom .button1 {
+    left: 0;
+  }
+
+  .top .top-top .buttons {
+    margin-left: 0px;
+  }
+
+  .top .top-top .buttonss {
+    margin-left: 0px;
+  }
+
+  .top .top-top .buttonsss {
+    margin-left: 0px;
+  }
+
+  .top .top-top .buttonsss strong {
+    left: 42.97%;
+  }
+
+  .top .top-top .buttonsss .img {
+    left: 228px;
+  }
+
+  .top .top-top .buttons .img {
+    position: relative;
+    left: 314px;
+    top: 16.5px;
+  }
+
+  .top .top-top .buttonss .img {
+    position: relative;
+    left: 300px;
+    top: -69.5px;
+  }
+
+  .top .top-button .buttons {
+    width: 514px;
+    margin-left: 0px;
+  }
+
+  .top .top-button .buttonss {
+    width: 514px;
+    margin-left: 0px;
+  }
+
+  .beta {
+    width: 550px;
+    margin-left: -3px;
+  }
+
+  .beta h4 {
+    position: relative;
+    left: 0.32%;
+    right: 0;
+    top: 24%;
+  }
+
+  .beta button {
+    left: calc(50% - 202px/2 + 152.29px);
+    top: -16%;
+  }
+
+  .top-top .open {
+    position: initial;
+    left: 2%;
+  }
+
+  .top-button .open {
+    position: initial;
+    left: 61.58%;
+    top: 187.27%;
+  }
+
+  .top .top-button .Recent span {
+    margin-top: 32px;
+    margin-left: 54%;
+    color: #51459E;
+  }
+
+  #footer {
+    display: block;
+  }
+
+  #footer .top {
+    margin: auto;
+  }
+
+  #footer .top-sds {
+    display: none;
+  }
+
+  #footer .top .inmg {
+    margin-top: 20px;
+    width: 236px;
+    margin-left: 17px;
+  }
+
+  #footer .top p {
+    margin-top: 23px;
+    margin-left: 17px;
+    font-family: 'Factor A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    letter-spacing: -0.209776px;
+    color: #8F92A1;
+  }
+
+  .top-links {
+    margin-left: 28px;
+    margin-top: 26px;
+  }
+
+  #footer .p {
+    text-align: center;
+  }
+}
+
+
+
+@media screen and (max-width: 450px) {
+  .container {
+    max-width: 370px;
+  }
+
+  ;
+
+  .top-welcom {
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  #menu-icon {
+    margin-left: 71%;
+  }
+
+  .top-welcom .button1 {
+    left: 0;
+  }
+
+  .top .top-top .buttons {
+    margin-left: 0px;
+    width: 341px;
+  }
+
+  .top .top-top .buttonss {
+    margin-left: 0px;
+    width: 341px;
+  }
+
+  .top .top-top .buttonsss {
+    margin-left: 0px;
+    width: 341px;
+  }
+
+  .top .top-top .buttons span {
+    position: relative;
+    margin-left: 2%;
+    top: 35%;
+    right: 0;
+  }
+
+  .top .top-top .buttonsss strong {
+    left: 18.97%;
+  }
+
+  .top .top-top .buttonsss .img {
+    left: 56px;
+  }
+
+  .top .top-top .buttons .img {
+    position: relative;
+    left: 314px;
+    top: 16.5px;
+  }
+
+  .top .top-top .buttonss .img {
+    position: relative;
+    left: 300px;
+    top: -69.5px;
+  }
+
+  .top .top-button .buttons {
+    width: 342px;
+    margin-left: 0px;
+  }
+
+  .top .top-button .buttonss {
+    width: 342px;
+    margin-left: 0px;
+  }
+
+  .beta {
+    width: 550px;
+    margin-left: -3px;
+  }
+
+  .beta h4 {
+    position: relative;
+    left: 0.32%;
+    right: 0;
+    top: 24%;
+    font-size: 15px;
+  }
+
+  .beta button {
+    left: calc(50% - 202px/2 + 152.29px);
+    top: -16%;
+    width: 116px;
+
+  }
+
+  .top-top .open {
+    margin-left: 173px;
+  }
+
+  .top-button .open {
+    position: initial;
+    left: 61.58%;
+    top: 187.27%;
+  }
+
+  .top .top-button .Recent span {
+    margin-top: 32px;
+    margin-left: 54%;
+    color: #51459E;
+  }
+
+  #footer {
+    display: block;
+  }
+
+  #footer .top {
+    margin: auto;
+  }
+
+  #footer .top-sds {
+    display: none;
+  }
+
+  #footer .top .inmg {
+    margin-top: 22px;
+    width: 236px;
+    margin-left: 55px;
+  }
+
+  #footer .top p {
+    margin-top: 22px;
+    margin-left: 53px;
+    font-family: 'Factor A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    letter-spacing: -0.209776px;
+    color: #8F92A1;
+  }
+
+  .top-links {
+    margin-left: 48px;
+  }
+
+  #footer .p {
+    text-align: center;
+  }
+
+  .top .top-top .buttonss p {
+    position: relative;
+    left: 14%;
+  }
+
+  .top .top-top .buttonss span {
+    position: relative;
+    left: 14%;
+  }
+
+  .top .top-top .buttonss strong {
+    position: relative;
+    left: 41.97%;
+  }
+
+  .top .top-top .buttonss .img {
+    position: relative;
+    left: 133px;
+  }
+
+  .top .top-top .buttonsss p {
+    position: relative;
+    left: 15%;
+  }
+
+  .top .top-top .buttonsss span {
+    position: relative;
+    left: 15%;
+  }
+
+  .top .top-button .buttons p {
+    position: relative;
+    left: 4.67%;
+    font-size: 12px;
+  }
+
+  .top .top-button .buttons a {
+    position: relative;
+    left: 13.65%;
+    top: 36.42%;
+    font-size: 12px;
+  }
+
+  .top .top-button .buttonss p {
+    position: relative;
+    left: 4.67%;
+    font-size: 12px;
+  }
+
+  .top .top-button .buttonss a {
+    position: relative;
+    left: 19.65%;
+    top: 36.42%;
+    font-size: 12px;
+  }
+
+  .top .top-button .Recent h3 {
+    font-size: 17px;
+  }
+
+  .top-button .open {
+    margin-left: 57%;
+    margin-top: 119px;
+  }
+}

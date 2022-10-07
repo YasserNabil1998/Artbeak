@@ -1,0 +1,297 @@
+.lefts {
+  margin-top: -22px;
+  margin-left: 838px;
+}
+
+.lefts p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  color: #000000;
+  font-family: 'Product Sans', sans-serif;
+}
+
+.lefts p span {
+  color: #51459E;
+  margin-left: 9px;
+}
+
+/* signup */
+.signup {
+  width: 834px;
+  height: 981px;
+  margin-left: calc(50% - 834px/2 - 10px);
+  margin-top: 31px;
+  margin-bottom: 80px;
+  border: 1px solid #CACACB;
+  border-radius: 15px;
+}
+
+
+.signup h1 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 33px;
+  color: #51459E;
+  text-align: center;
+  margin-top: 49px;
+  margin-left: -9px;
+}
+
+.signup .top {
+  margin-top: 86px;
+}
+
+.signup .top .button-googel {
+  width: 576px;
+  height: 43px;
+  margin-left: 106px;
+  margin-top: -9px;
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+  border: 1px solid #999999;
+  border-radius: 21.5px;
+}
+
+.signup .top .button-googel img {
+  width: 26px;
+  height: 26px;
+  margin-left: -209px;
+  top: 303px;
+  position: absolute;
+}
+
+.signup .top .button-googel span {
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+  margin-left: 0%;
+  letter-spacing: 0;
+}
+
+.signup .button {
+  margin-top: 16px;
+}
+
+.signup .button .button-googel {
+  width: 576px;
+  height: 43px;
+  margin-left: 106px;
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+  border: 1px solid #999999;
+  border-radius: 21.5px;
+}
+
+.signup .button .button-googel img {
+  width: 40px;
+  height: 30px;
+  margin-left: -211px;
+  top: 360px;
+  position: absolute;
+}
+
+.signup .button .button-googel span {
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+  margin-left: 0%;
+}
+
+.signup .hr {
+  margin-top: 78px;
+  display: flex;
+}
+
+.signup .hr .hr-left {
+  width: 390px;
+  height: 0px;
+  margin-left: -11.5px;
+  border: 1px solid #CACACB;
+}
+
+.signup .hr .hr-or {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #000000;
+  margin-top: -9px;
+  margin-left: 10px;
+}
+
+.signup .hr .hr-right {
+  width: 408px;
+  height: 0px;
+  margin-left: 30.5%;
+  border: 1px solid #CACACB;
+  position: absolute;
+}
+
+.form {
+  margin-top: 29px;
+}
+
+.rows{
+  display: flex;
+  margin-left: 13%;
+  margin-bottom: 21px;
+}
+.rows .top-input-onw{
+  border-radius: 7px;
+  width: 273px;
+  height: 48px;
+}
+.form .top-input-onw div {
+  height: 49px;
+}
+.rows .top-input-tow{
+  border-radius: 7px;
+  width: 294px;
+  height: 48px;
+  margin-left: 9px;
+}
+.form .top-input-tow div {
+  height: 49px;
+}
+
+
+
+
+
+.form .top-input {
+  width: 576px;
+  height: 46px;
+  margin-left: 13%;
+  border-radius: 7px;
+  margin-top: -16px;
+}
+
+.form .button-input {
+  width: 576px;
+  height: 48px;
+  margin-left: 13%;
+  border-radius: 7px;
+  margin-top: 7px;
+}
+
+.form .buttonn-input {
+  width: 576px;
+  height: 48px;
+  margin-left: 13%;
+  border-radius: 7px;
+  margin-top: 4px;
+}
+
+.form .top-input div {
+  height: 49px;
+}
+
+.form .buttonn-input div {
+  height: 49px;
+}
+/* .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 7px;
+  margin-top: -1px;
+  font-size: 15px;
+} */
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+  font-family: 'Product Sans', sans-serif !important;
+  margin-left: 7px!important;
+  margin-top: -1px!important;
+  font-size: 15px!important;
+  letter-spacing: 0!important;
+}
+
+.form .button-input input {
+  height: 14px;
+}
+
+.form .buttonn-input input {
+  height: 14px;
+}
+.forget{
+  margin-top: 32px;
+}
+.forgets {
+  margin-top: -15px;
+
+}
+.forgets label{
+  margin-left: 12%;
+}
+.forget label{
+  margin-left: 12%;
+}
+.forget .label .MuiFormControlLabel-label {
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 25px;
+  color: #000000;
+  width: 65%;
+  text-align: inherit;
+  margin-top: 25px;
+}
+.forgets .MuiFormControlLabel-label {
+  font-family: 'Product Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 25px;
+  color: #000000;
+}
+/* accont */
+.accont {
+  margin-top: 17px;
+  text-align: center;
+  margin-left: -10px;
+
+}
+
+.accont button {
+  background: #51459E;
+  border-radius: 15px;
+  width: 576px;
+  height: 53px;
+  border: none;
+  border-radius: 41.6667px;
+}
+
+.accont button a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  color: #84E8F4;
+  margin-left: 14px;
+}
+
+.accont p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #000000;
+  margin-top: 16px;
+  margin-left: -19px;
+  margin-top: 16px;
+  font-family: 'Product Sans', sans-serif;
+  margin-left: 2px;
+}
+
+.accont a {
+  color: #51459E;
+}
