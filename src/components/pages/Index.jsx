@@ -1,10 +1,12 @@
 import React from 'react';
 import "../Style/Index.css";
 import { NavLink } from 'react-router-dom';
+import Navbar from './Navbar';
 
 function Index() {
   return (
     <>
+    <Navbar />
       {/* <!-----------main-----------> */}
       <div id="main">
         <section id="welcome col-md-12">
