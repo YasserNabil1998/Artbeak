@@ -1,11 +1,12 @@
 import React from 'react';
 import "../Style/Index.css";
+import { NavLink } from 'react-router-dom';
 
 function Index() {
   return (
     <>
-            {/* <!-----------main-----------> */}
-            <div id="main">
+      {/* <!-----------main-----------> */}
+      <div id="main">
         <section id="welcome col-md-12">
           <div class="container">
             <div class="row">
@@ -55,8 +56,8 @@ function Index() {
                   <img src="../assets/iamges/Vector 9.svg" class="img" />
                 </div>
                 <p class="open">Open My Transactions <span>
-                <img src="../assets/iamges/arrow.svg" alt="" />
-                  </span></p>
+                  <img src="../assets/iamges/arrow.svg" alt="" />
+                </span></p>
               </div>
               <div class=" top-button">
                 <div class="Recent">
@@ -65,14 +66,16 @@ function Index() {
                 </div>
                 <div class="buttons">
                   <p>New Product release explainer video</p>
-                  <a href="">Open Project</a>
+                  <NavLink to="/Projects" class="btn btn-outline-dark">Open Project </NavLink>
                 </div>
                 <div class="buttonss" style={{ margintop: "13px" }}>
                   <p>Youtube content explainer video</p>
-                  <a href="">Open Project</a>
+                  <NavLink to="/Projects" class="btn btn-outline-dark">Open Project </NavLink>
                 </div>
-                <p class="open">Open My Projects <span>
-                  <img src="../assets/iamges/arrow.svg" alt="" />
+                <p class="open">
+                  <NavLink to="/Projects" class="btn btn-outline-dark">Open My Projects </NavLink>
+                  <span>
+                    <img src="../assets/iamges/arrow.svg" alt="" />
                   </span></p>
               </div>
               <div class="col-md-12 beta">

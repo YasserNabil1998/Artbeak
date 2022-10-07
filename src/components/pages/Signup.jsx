@@ -176,7 +176,7 @@ export default function Signup() {
             </button>
             <p>
             Already have an account? 
-              <NavLink to="/Signup" class="btn btn-outline-dark">Log in</NavLink>
+              <NavLink to="/Index" class="btn btn-outline-dark">Log in</NavLink>
             </p>
           </div>
         </div>
