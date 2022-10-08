@@ -1,0 +1,178 @@
+.Transactions {
+  margin-top: 30px;
+  margin-bottom: 116px;
+}
+
+.Transactions .top {
+  margin-bottom: 30px;
+  background: #51459E;
+  box-shadow: 0px 11.5735px 36.3739px rgb(81 69 158 / 20%);
+  border-radius: 15px;
+  margin-left: -13px;
+  margin-top: 31px;
+  height: 129px;
+  width: 1140px;
+}
+.Transactions .top h2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 27px;
+  color: #84E8F4;
+  margin-left: 32px;
+  padding-top: 33px;
+  margin-bottom: 15px;
+}
+
+.Transactions .top p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #DEE1E6;
+  opacity: 0.8;
+  margin-left: 32px;
+  margin-bottom: 28px;
+}
+
+.Transactions .button {
+  background: #FFFFFF;
+  border: 1px solid #CACACB;
+  border-radius: 15px;
+  margin-left: -13px;
+  width: 1140px;
+  height: 596px;
+}
+.Transactions .buttons {
+  display: flex;
+  margin-top: 31px;
+  margin-bottom: 51px;
+  margin-left: 29px;
+}
+
+.Transactions .button .buttons h3 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 6px;
+}
+
+.Transactions .button .buttons span {
+  margin-left: 929px;
+  right: 10.61%;
+  top: 30.21%;
+  color: #51459E;
+}
+
+.Transactions .list button{
+  border: 1px solid #CCCCCC;
+  border-radius: 10px;
+  background: none;
+  display: flex;
+  width: 1102px;
+  height: 57px;
+  left: 18px;
+  top: -6px;
+}
+.Transactions .list button strong{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 17px;
+  letter-spacing: -0.141026px;
+  color: #171717;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.Transactions .list button .fg{
+  display: flex;
+}
+.Transactions .list button .fg img{
+  margin-top: 7px;
+  margin-left: 19px;
+}
+.Transactions .list button .fg p{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  letter-spacing: -0.141026px;
+  color: #171717;
+  margin-top: 6px;
+  margin-left: 16px;
+}
+.Transactions .list button .fg small{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: -0.141026px;
+  color: #8F92A1;
+  margin-top: 22px;
+  margin-left: -62px;
+}
+.Transactions .list button .Sound{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  margin-top: 15px;
+  margin-left: 95px;
+}
+.Transactions .list button span{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: -0.161753px;
+  color: #8F92A1;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-left: 176px;
+  margin-top: 15px;
+}
+.Transactions .list button .small{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.141026px;
+  color: #00875A;
+  margin-left: 184px;
+  margin-top: 16px;
+}
+.Transactions .list button .img{
+  width: 13px;
+  height: 13px;
+  margin-top: 19px;
+  margin-left: 27px;
+}
+.dropdown-menu{width: 100%;}
+.Transactions .list .sh{
+  
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.141026px;
+  color: #8F92A1;
+  margin-left: 25px;
+  margin-top: 50px;
+
+}

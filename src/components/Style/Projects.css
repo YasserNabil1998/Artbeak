@@ -70,7 +70,7 @@
   border: 1px solid #CACACB;
   border-radius: 15px;
   margin-left: -4px;
-  width: 1140px;
+  width: 1140px; 
   height: 538px;
 }
 
@@ -201,7 +201,7 @@
   color: #171717;
   transform: matrix(1, 0, -0.01, 1, 0, 0);
   font-family: 'Product Sans', sans-serif;
-  margin-left: 99px;
+  margin-left: 126px;
   margin-top: 15px;
 }
 

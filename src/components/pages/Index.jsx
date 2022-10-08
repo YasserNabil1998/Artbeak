@@ -57,7 +57,9 @@ function Index() {
                   <strong>400USD</strong>
                   <img src="../assets/iamges/Vector 9.svg" class="img" />
                 </div>
-                <p class="open">Open My Transactions <span>
+                <p class="open">
+                <NavLink to="/Transactions" class="btn btn-outline-dark">Open My Transactions </NavLink>
+                 <span>
                   <img src="../assets/iamges/arrow.svg" alt="" />
                 </span></p>
               </div>
