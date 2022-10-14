@@ -16,7 +16,9 @@ function Index() {
                 <h2>Good Morning James</h2>
                 <p>Start Making Your High Quality Explainer Video.</p>
                 <div style={{ display: "flex", marginLeft: "24px", marginTop: "32px" }}>
-                  <button class="button1">Create Explainer        </button>
+                  <button class="button1"> 
+                  <NavLink to="/Frame_01" class="btn btn-outline-dark" style={{color:" #51459E !important"}} >Create Explainer</NavLink>
+                  </button>
                   <button class="button2">Upgrade plan</button>
                 </div>
               </div>

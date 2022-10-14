@@ -1,0 +1,135 @@
+.Notifications {
+  margin-top: 30px;
+  margin-bottom: 116px;
+}
+
+.Notifications .top {
+  margin-bottom: 30px;
+  background: #51459E;
+  box-shadow: 0px 11.5735px 36.3739px rgb(81 69 158 / 20%);
+  border-radius: 15px;
+  margin-left: -13px;
+  margin-top: 31px;
+  height: 130px;
+  width: 1140px;
+}
+.Notifications .top h2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 27px;
+  color: #84E8F4;
+  margin-left: 32px;
+  padding-top: 33px;
+  margin-bottom: 15px;
+}
+
+.Notifications .top p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #DEE1E6;
+  opacity: 0.8;
+  margin-left: 32px;
+  margin-bottom: 28px;
+}
+
+.Notifications .button {
+  background: #FFFFFF;
+  border: 1px solid #CACACB;
+  border-radius: 15px;
+  margin-left: -13px;
+  width: 1140px;
+  height: 328px;
+}
+.Notifications .buttons {
+  display: flex;
+  margin-top: 31px;
+  margin-bottom: 51px;
+  margin-left: 29px;
+}
+
+.Notifications .button .buttons h3 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 6px;
+}
+
+.Notifications .button .buttons span {
+  margin-left: 929px;
+  right: 10.61%;
+  top: 30.21%;
+  color: #51459E;
+}
+
+.Notifications .list .list-top{
+  display: flex;
+  width: 1102px;
+  height: 57px;
+  margin-left: 18px;
+  margin-top: -5px;
+  background: #cccccc;
+  border: 1px solid #cccccc;
+  border-radius: 10px;
+}
+.Notifications .list .list-top .artest{
+  font-family: 'Product Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 120%;
+color: #000000;
+transform: matrix(1, 0, -0.01, 1, 0, 0);
+margin-top: 19px;
+margin-left: 24px;
+}
+.Notifications .list .list-top .artest span{
+  color: 
+  #51459E;
+}
+.Notifications .list .list-button{
+  display: flex;
+  width: 1102px;
+  height: 57px;
+  margin-left: 18px;
+  margin-top: 20px;
+  border: 1px solid #CACACB;
+  border-radius: 10px;
+}
+.Notifications .list .list-button .artest{
+  font-family: 'Product Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 120%;
+color: #000000;
+transform: matrix(1, 0, -0.01, 1, 0, 0);
+margin-top: 19px;
+margin-left: 24px;
+}
+.Notifications .list .list-button .artest span{
+  color: 
+  #51459E;
+}
+
+
+.Notifications .list .sh{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.141026px;
+  color: #8F92A1;
+  margin-left: 25px;
+  margin-top: 50px;
+
+}

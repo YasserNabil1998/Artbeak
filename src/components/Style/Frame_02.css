@@ -1,0 +1,311 @@
+.size {
+  margin-top: 30px;
+  margin-bottom: 90px;
+}
+
+/* .voice .voice-left */
+.size .size-left {
+  width: 506px;
+  height: 951px;
+  background: #51459E;
+  border-radius: 15px;
+  margin-left: -2px;
+  margin-top: 2px;
+}
+
+.size .size-left .size-left-top {
+  margin-top: 24px;
+}
+
+.size .size-left .size-left-top .progress {
+  background: #776FAB;
+  border-radius: 5.44182px;
+  width: 460.4px;
+  height: 9px;
+}
+
+.size .size-left .size-left-top .progress .progress-bar {
+  background: #84E8F4;
+  border-radius: 4.37955px;
+}
+
+.size .size-left .size-left-top .small-list {
+  display: flex;
+  margin-top: 9px;
+  margin-left: 8px;
+}
+
+.size .size-left .size-left-top .small-list .small-1 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+}
+
+.size .size-left .size-left-top .small-list .small-2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+  margin-left: 41px;
+}
+
+.size .size-left .size-left-top .small-list .small-3 {
+  margin-left: 30px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.size .size-left .size-left-top .small-list .small-4 {
+  margin-left: 35px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.size .size-left .size-left-top .small-list .small-5 {
+  margin-left: 31px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.size .size-left .size-left-title {
+  margin-top: 71px;
+}
+
+.size .size-left .size-left-title h4 {
+  width: 274.49px;
+  height: 70px;
+  margin-left: 17px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 35px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-left: 19px;
+}
+
+.size .size-left .size-left-title p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-top: 49px;
+  margin-left: 18px;
+}
+
+/* size-right */
+.size .size-right {
+  width: 634px;
+  height: 951px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  margin-top: 2px;
+}
+
+.size .size-right h5 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18.7999px;
+  line-height: 21px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 136px;
+  margin-left: 56px;
+}
+
+.size .size-right .size-right-form {
+  margin-top: 45px;
+  margin-left: 56px;
+}
+
+.size .size-right .size-right-form .chek label {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0999px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #000000;
+}
+
+.size .size-right .size-right-form .chek input {
+  width: 12.62px;
+  height: 12.62px;
+  margin-left: -20px;
+}
+
+.size .size-right .size-right-form .chek span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0999px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #000000;
+  opacity: 0.4;
+  margin-left: 11px;
+  margin-top: -1px;
+  position: absolute;
+}
+
+.size .size-right .size-right-form .chek img {
+  width: 77.36px;
+  height: 63.42px;
+  margin-top: 12px;
+  margin-left: 13px;
+}
+
+/* chekS */
+.size .size-right .size-right-form .chekS label {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0999px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #000000;
+}
+
+.size .size-right .size-right-form .chekS input {
+  width: 12.62px;
+  height: 12.62px;
+  margin-left: -20px;
+}
+
+.size .size-right .size-right-form .chekS span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0999px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #000000;
+  opacity: 0.4;
+  margin-left: 11px;
+  margin-top: -1px;
+  position: absolute;
+}
+
+.size .size-right .size-right-form .chekS img {
+  width: 81.36px;
+  height: 53.42px;
+  margin-top: 12px;
+  margin-left: 7px;
+}
+
+/* chekSC */
+.size .size-right .size-right-form .chekSC label {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0999px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #000000;
+}
+
+.size .size-right .size-right-form .chekSC input {
+  width: 12.62px;
+  height: 12.62px;
+  margin-left: -20px;
+}
+
+.size .size-right .size-right-form .chekSC span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0999px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #000000;
+  opacity: 0.4;
+  margin-left: 11px;
+  margin-top: -1px;
+  position: absolute;
+}
+
+.size .size-right .size-right-form .chekSC img {
+  width: 81.36px;
+  height: 53.42px;
+  margin-top: 8px;
+  margin-left: 7px;
+}
+
+.size .size-right .size-right-form .chekSC .img {
+  width: 72.36px;
+  height: 61.42px;
+  margin-top: 9px;
+  margin-left: -1px;
+}
+
+
+.size .size-right .size-right-form .butonssd {
+  margin-top: 162px;
+  margin-left: 67px;
+}
+
+.size .size-right .size-right-form .butonssd .onw-dark {
+  width: 118.33px;
+  height: 39.44px;
+  background: #cccccc;
+  border: none;
+  border-radius: 82.1661px;
+}
+
+.size .size-right .size-right-form .butonssd .onw-dark .onw-dark-a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.4332px;
+  line-height: 28px;
+  letter-spacing: -0.278101px;
+  opacity: 5;
+  color: #51459E;
+}
+
+.size .size-right .size-right-form .butonssd .tow-dark {
+  background: #84E8F4;
+  border-radius: 82.1661px;
+  width: 217px;
+  height: 39px;
+  border: none;
+  margin-left: 9.88px;
+}
+
+.size .size-right .size-right-form .butonssd .tow-dark .tow-dark-a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.4499px;
+  line-height: 28px;
+  letter-spacing: -0.278383px;
+  color: #51459E;
+}

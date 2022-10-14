@@ -1,0 +1,338 @@
+.AccountSettings {
+  margin-top: 30px;
+  margin-bottom: 116px;
+}
+
+.AccountSettings .top {
+  margin-bottom: 30px;
+  background: #51459E;
+  box-shadow: 0px 11.5735px 36.3739px rgb(81 69 158 / 20%);
+  border-radius: 15px;
+  margin-left: -13px;
+  margin-top: 31px;
+  height: 130px;
+  width: 1140px;
+}
+
+.AccountSettings .top h2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 27px;
+  color: #84E8F4;
+  margin-left: 32px;
+  padding-top: 33px;
+  margin-bottom: 15px;
+}
+
+.AccountSettings .top p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #DEE1E6;
+  opacity: 0.8;
+  margin-left: 32px;
+  margin-bottom: 28px;
+}
+
+.AccountSettings .button {
+  background: #FFFFFF;
+  border: 1px solid #CACACB;
+  border-radius: 15px;
+  margin-left: -13px;
+  width: 1140px;
+  height: 408px;
+}
+
+.AccountSettings .buttons {
+  display: flex;
+  margin-top: 31px;
+  margin-bottom: 51px;
+  margin-left: 29px;
+}
+
+.AccountSettings .button .buttons h3 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 6px;
+}
+
+.AccountSettings .button .buttons span {
+  margin-left: 929px;
+  right: 10.61%;
+  top: 30.21%;
+  color: #51459E;
+}
+
+/* name */
+.AccountSettings .list .list-name button {
+  width: 1102px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 19px;
+  margin-top: -6px;
+  background: none;
+  color: #000;
+  display: flex;
+}
+.AccountSettings .list .list-name .dropdown-toggle::after{
+  margin-left: 89%;
+  margin-top: 18px;
+}
+.AccountSettings .list .list-name .dropdown-toggle p{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-top: 10px;
+  margin-left: 21px;
+}
+
+.dropdown-menu {
+  width: 98%;
+  border-radius: 10px;
+}
+
+.formd {
+  padding: 21px;
+  margin-left: 21px;
+}
+
+.formd label {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+}
+
+.formd input {
+  width: 484px !important;
+  height: 40px;
+  border: 0.583333px solid #000000;
+  border-radius: 4.08333px;
+}
+
+.profil {
+  width: 116.63px;
+  height: 116.63px;
+  margin-left: 142px;
+  margin-top: 61px;
+}
+
+.cdcd span {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #CCCCCC;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-left: 100px;
+}
+
+
+/* Security */
+.AccountSettings .list .list-Security button {
+  width: 1102px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 19px;
+  margin-top: -6px;
+  background: none;
+  color: #000;
+  display: flex;
+}
+.AccountSettings .list .list-Security .dropdown-toggle::after{
+  margin-left: 90%;
+  margin-top: 18px;
+}
+.AccountSettings .list .list-Security .dropdown-toggle p{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-top: 10px;
+  margin-left: 21px;
+}
+
+.dropdown-menu {
+  width: 98%;
+  border-radius: 10px;
+}
+
+.Security {
+  padding: 21px;
+  margin-left: 21px;
+}
+
+.Security label {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+}
+
+.Security input {
+  width: 484px !important;
+  height: 40px;
+  border: 0.583333px solid #000000;
+  border-radius: 4.08333px;
+}
+
+.AccountSettings .list .list-Security .pass {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-left: 36px;
+  margin-top: 27px;
+}
+
+/* Membership */
+.AccountSettings .list .list-Membership button {
+  width: 1102px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 19px;
+  margin-top: -6px;
+  background: none;
+  color: #000;
+  display: flex;
+}
+.AccountSettings .list .list-Membership .dropdown-toggle::after{
+  margin-left: 87%;
+  margin-top: 18px;
+}
+.AccountSettings .list .list-Membership .dropdown-toggle p{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-top: 10px;
+  margin-left: 21px;
+}
+.AccountSettings .list .list-Membership .pass-Membership {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-left: 36px;
+  margin-top: 27px;
+}
+.AccountSettings .list .list-Membership .pass-Membership span{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #51459E;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-left: 8px;
+}
+
+/* Notifications */
+
+.AccountSettings .list .list-Notifications button {
+  width: 1102px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 19px;
+  margin-top: -6px;
+  background: none;
+  color: #000;
+  display: flex;
+}
+.AccountSettings .list .list-Notifications .dropdown-toggle::after{
+  margin-left: 87%;
+  margin-top: 18px;
+}
+.AccountSettings .list .list-Notifications .dropdown-toggle p{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-top: 10px;
+  margin-left: 21px;
+}
+.AccountSettings .list .list-Notifications .pass-Notifications {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #171717;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-left: 36px;
+  margin-top: 27px;
+}
+.AccountSettings .list .list-Notifications .pass-Notifications span{
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: -0.161753px;
+  color: #51459E;
+  transform: matrix(1, 0, -0.01, 1, 0, 0);
+  margin-left: 8px;
+}
+
+
+
+
+
+.AccountSettings .list .sh {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.141026px;
+  color: #8F92A1;
+  margin-left: 25px;
+  margin-top: 50px;
+
+}
