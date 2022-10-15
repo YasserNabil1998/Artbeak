@@ -1,0 +1,284 @@
+.Speak {
+  margin-top: 30px;
+  margin-bottom: 90px;
+}
+
+/* .voice .voice-left */
+.Speak .Speak-left {
+  width: 506px;
+  height: 775px;
+  background: #51459E;
+  border-radius: 15px;
+  margin-left: -1px;
+  margin-top: 1px;
+}
+
+.Speak .Speak-left .Speak-left-top {
+  margin-top: 24px;
+}
+
+.Speak .Speak-left .Speak-left-top .progress {
+  background: #776FAB;
+  border-radius: 5.44182px;
+  width: 460.4px;
+  height: 9px;
+}
+
+.Speak .Speak-left .Speak-left-top .progress .progress-bar {
+  background: #84E8F4;
+  border-radius: 4.37955px;
+}
+
+.Speak .Speak-left .Speak-left-top .small-list {
+  display: flex;
+  margin-top: 9px;
+  margin-left: 8px;
+}
+
+.Speak .Speak-left .Speak-left-top .small-list .small-1 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+}
+
+.Speak .Speak-left .Speak-left-top .small-list .small-2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+  margin-left: 41px;
+}
+
+.Speak .Speak-left .Speak-left-top .small-list .small-3 {
+  margin-left: 30px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.Speak .Speak-left .Speak-left-top .small-list .small-4 {
+  margin-left: 35px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.Speak .Speak-left .Speak-left-top .small-list .small-5 {
+  margin-left: 31px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.Speak .Speak-left .Speak-left-title {
+  margin-top: 71px;
+}
+
+.Speak .Speak-left .Speak-left-title h4 {
+  width: 301.49px;
+  height: 70px;
+  margin-left: 17px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 35px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-left: 19px;
+}
+
+.Speak .Speak-left .Speak-left-title p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 23px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-top: 47px;
+  margin-left: 20px;
+}
+
+.Speak .Speak-left .Speak-left-title label {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.6177px;
+  line-height: 14px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-left: 8px;
+  margin-top: 7px;
+}
+
+.Speak .Speak-left .Speak-left-title input {
+  width: 13.78px;
+  height: 11.78px;
+  background: #84E8F4;
+  margin-left: -4px;
+  border-radius: 1px;
+  margin-top: 6px;
+}
+
+.Speakwrite .Speak-left .Speak-left-title .span-one {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.6177px;
+  line-height: 14px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  opacity: 0.5;
+  margin-left: 42px;
+}
+
+.Speak .Speak-left .Speak-left-title .span-tow {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.6177px;
+  line-height: 14px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  opacity: 0.5;
+  margin-left: 42px;
+}
+
+/* Speak-right */
+.Speak .Speak-right {
+  width: 634px;
+  height: 774px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  margin-top: 2px;
+}
+
+.Speak .Speak-right h5 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18.7999px;
+  line-height: 21px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 135px;
+  margin-left: 58px;
+  margin-bottom: 13px;
+}
+.Speak .Speak-right .size-right-form {
+  margin-top: 40px;
+  margin-left: 58px;
+}
+.Speak .Speak-right .size-right-form .chek label {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0999px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #000000;
+}
+
+.Speak .Speak-right .size-right-form .chek input {
+  width: 12.62px;
+  height: 12.62px;
+  margin-left: -20px;
+}
+.Speak .Speak-right .size-right-form .cheks{
+  margin-top: -82px;
+  margin-left: -58px;
+}
+
+.Speak .Speak-right .size-right-form .cheks h5{
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18.7999px;
+  line-height: 21px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 135px;
+  margin-left: 58px;
+  margin-bottom: 13px;
+}
+.Speak .Speak-right .size-right-form .cheks label {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0999px;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  color: #000000;
+  margin-left: 10px;
+  margin-top: 31px;
+}
+
+.Speak .Speak-right .size-right-form .cheks input {
+  width: 12.62px;
+  height: 12.62px;
+  margin-left: 36px;
+  margin-top: 32px;
+}
+.Speak .Speak-right .Speak-right-form .butonssd {
+  margin-top: 72px;
+  margin-left: 89px;
+}
+
+.Speak .Speak-right .Speak-right-form .butonssd .onw-dark {
+  width: 118.33px;
+  height: 39.44px;
+  background: #cccccc;
+  border: none;
+  border-radius: 82.1661px;
+}
+
+.Speak .Speak-right .Speak-right-form .butonssd .onw-dark .onw-dark-a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.4332px;
+  line-height: 28px;
+  letter-spacing: -0.278101px;
+  opacity: 5;
+  color: #51459E;
+}
+
+.Speak .Speak-right .Speak-right-form .butonssd .tow-dark {
+  background: #84E8F4;
+  border-radius: 82.1661px;
+  width: 217px;
+  height: 39px;
+  border: none;
+  margin-left: 9.88px;
+}
+
+.write .write-right .write-right-form .butonssd .tow-dark .tow-dark-a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.4499px;
+  line-height: 28px;
+  letter-spacing: -0.278383px;
+  color: #51459E;
+}

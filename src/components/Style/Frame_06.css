@@ -1,0 +1,266 @@
+.imagination {
+  margin-top: 30px;
+  margin-bottom: 90px;
+}
+
+/* .imagination .Storyboard-left */
+.imagination .imagination-left {
+  width: 506px;
+  height: 775px;
+  background: #51459E;
+  border-radius: 15px;
+  margin-left: -1px;
+  margin-top: 1px;
+}
+
+.imagination .imagination-left .imagination-left-top {
+  margin-top: 24px;
+}
+
+.imagination .imagination-left .imagination-left-top .progress {
+  background: #776FAB;
+  border-radius: 5.44182px;
+  width: 460.4px;
+  height: 9px;
+}
+
+.imagination .imagination-left .imagination-left-top .progress .progress-bar {
+  background: #84E8F4;
+  border-radius: 4.37955px;
+}
+
+.imagination .imagination-left .imagination-left-top .small-list {
+  display: flex;
+  margin-top: 9px;
+  margin-left: 8px;
+}
+
+.imagination .imagination-left .imagination-left-top .small-list .small-1 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+}
+
+.imagination .imagination-left .imagination-left-top .small-list .small-2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+  margin-left: 41px;
+}
+
+.imagination .imagination-left .imagination-left-top .small-list .small-3 {
+  margin-left: 30px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.imagination .imagination-left .imagination-left-top .small-list .small-4 {
+  margin-left: 35px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.imagination .imagination-left .imagination-left-top .small-list .small-5 {
+  margin-left: 31px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #FFFFFF;
+}
+
+.imagination .imagination-left .imagination-left-title {
+  margin-top: 71px;
+}
+
+.imagination .imagination-left .imagination-left-title h4 {
+  width: 325px;
+  height: 70px;
+  margin-left: 17px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 35px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-left: 19px;
+}
+
+.imagination .imagination-left .imagination-left-title p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-top: 52px;
+  margin-left: 20px;
+  width: 219px;
+}
+
+.imagination .imagination-left .imagination-left-title label {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.6177px;
+  line-height: 14px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-left: 8px;
+  margin-top: 7px;
+}
+
+.imagination .imagination-left .imagination-left-title input {
+  width: 13.78px;
+  height: 11.78px;
+  background: #84E8F4;
+  margin-left: -4px;
+  border-radius: 1px;
+  margin-top: 6px;
+}
+
+.imagination .imagination-left .imagination-left-title .span-one {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.6177px;
+  line-height: 14px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  opacity: 0.5;
+  margin-left: 42px;
+}
+
+.imagination .imagination-left .imagination-left-title .span-tow {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.6177px;
+  line-height: 14px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  opacity: 0.5;
+  margin-left: 42px;
+}
+
+/* Speak-right */
+.imagination .imagination-right {
+  width: 634px;
+  height: 774px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  margin-top: 2px;
+}
+
+.imagination .imagination-right h5 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18.7999px;
+  line-height: 21px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 135px;
+  margin-left: 58px;
+  margin-bottom: 13px;
+}
+
+.imagination .imagination-right .size-right-form {
+  margin-top: 26px;
+  margin-left: 35px;
+}
+
+.imagination .imagination-right .size-right-form .chek .imagination-chek-1 {
+  opacity: 0.5;
+  border: 1.1068px solid #000000;
+  border-radius: 5.6336px;
+  width: 452.57px;
+  height: 49.63px;
+}
+
+.imagination .imagination-right .size-right-form .chek .imagination-chek-2 {
+  opacity: 0.5;
+  border: 1.1068px solid #000000;
+  border-radius: 5.6336px;
+  width: 452.57px;
+  height: 49.63px;
+  margin-top: 12px;
+  margin-left: -2px;
+}
+
+.imagination .imagination-right .size-right-form .chek span {
+  width: 36px;
+  height: 62px;
+  position: absolute;
+  margin-left: 451px;
+  margin-top: -91px;
+  border-top: 1.1068px solid #808080;
+  border-bottom: 1.1068px solid #808080;
+  border-right: 1.1068px solid #808080;
+}
+
+.imagination .imagination-right .imagination-right-form .butonssd {
+  margin-top: 88px;
+  margin-left: 112px;
+}
+
+.imagination .imagination-right .imagination-right-form .butonssd .onw-dark {
+  width: 118.33px;
+  height: 39.44px;
+  background: #cccccc;
+  border: none;
+  border-radius: 82.1661px;
+}
+
+.imagination .imagination-right .imagination-right-form .butonssd .onw-dark .onw-dark-a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.4332px;
+  line-height: 28px;
+  letter-spacing: -0.278101px;
+  opacity: 5;
+  color: #51459E;
+}
+
+.imagination .imagination-right .imagination-right-form .butonssd .tow-dark {
+  background: #84E8F4;
+  border-radius: 82.1661px;
+  width: 217px;
+  height: 39px;
+  border: none;
+  margin-left: 9.88px;
+}
+
+.Storyboard .Storyboard-right .Storyboard-right-form .butonssd .tow-dark .tow-dark-a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.4499px;
+  line-height: 28px;
+  letter-spacing: -0.278383px;
+  color: #51459E;
+}
