@@ -1,41 +1,41 @@
-.illustration {
+.Animation {
   margin-top: 30px;
   margin-bottom: 90px;
 }
 
-/* .illustration .illustration-left */
-.illustration .illustration-left {
+/* .Animation .Animation-left */
+.Animation .Animation-left {
   width: 506px;
-  height: 765px;
+  height: 800px;
   background: #51459E;
   border-radius: 15px;
   margin-left: -1px;
   margin-top: 1px;
 }
 
-.illustration .illustration-left .illustration-left-top {
+.Animation .Animation-left .Animation-left-top {
   margin-top: 24px;
 }
 
-.illustration .illustration-left .illustration-left-top .progress {
+.Animation .Animation-left .Animation-left-top .progress {
   background: #776FAB;
   border-radius: 5.44182px;
   width: 460.4px;
   height: 9px;
 }
 
-.illustration .illustration-left .illustration-left-top .progress .progress-bar {
+.Animation .Animation-left .Animation-left-top .progress .progress-bar {
   background: #84E8F4;
   border-radius: 4.37955px;
 }
 
-.illustration .illustration-left .illustration-left-top .small-list {
+.Animation .Animation-left .Animation-left-top .small-list {
   display: flex;
   margin-top: 9px;
   margin-left: 8px;
 }
 
-.illustration .illustration-left .illustration-left-top .small-list .small-1 {
+.Animation .Animation-left .Animation-left-top .small-list .small-1 {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -45,7 +45,7 @@
   color: #84E8F4;
 }
 
-.illustration .illustration-left .illustration-left-top .small-list .small-2 {
+.Animation .Animation-left .Animation-left-top .small-list .small-2 {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -56,7 +56,7 @@
   margin-left: 41px;
 }
 
-.illustration .illustration-left .illustration-left-top .small-list .small-3 {
+.Animation .Animation-left .Animation-left-top .small-list .small-3 {
   margin-left: 30px;
   font-family: 'Factor A';
   font-style: normal;
@@ -67,7 +67,7 @@
   color: #84E8F4;
 }
 
-.illustration .illustration-left .illustration-left-top .small-list .small-4 {
+.Animation .Animation-left .Animation-left-top .small-list .small-4 {
   margin-left: 35px;
   font-family: 'Factor A';
   font-style: normal;
@@ -75,10 +75,10 @@
   font-size: 10.8765px;
   line-height: 22px;
   letter-spacing: -0.184065px;
-  color: #FFFFFF;
+  color: #84E8F4;
 }
 
-.illustration .illustration-left .illustration-left-top .small-list .small-5 {
+.Animation .Animation-left .Animation-left-top .small-list .small-5 {
   margin-left: 31px;
   font-family: 'Factor A';
   font-style: normal;
@@ -89,12 +89,12 @@
   color: #FFFFFF;
 }
 
-.illustration .illustration-left .illustration-left-title {
+.Animation .Animation-left .Animation-left-title {
   margin-top: 71px;
 }
 
-.illustration .illustration-left .illustration-left-title h4 {
-  width: 126.17px;
+.Animation .Animation-left .Animation-left-title h4 {
+  width: 355px;
   height: 70px;
   margin-left: 17px;
   font-family: 'Factor A';
@@ -107,7 +107,7 @@
   margin-left: 19px;
 }
 
-.illustration .illustration-left .illustration-left-title p {
+.Animation .Animation-left .Animation-left-title p {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -115,12 +115,11 @@
   line-height: 25px;
   letter-spacing: -0.03em;
   color: #FFFFFF;
-  margin-top: 52px;
+  margin-top: 50px;
   margin-left: 20px;
-  width: 357px;
 }
 
-.illustration .illustration-left .illustration-left-title label {
+.Animation .Animation-left .Animation-left-title label {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -132,7 +131,7 @@
   margin-top: 7px;
 }
 
-.illustration .illustration-left .illustration-left-title input {
+.Animation .Animation-left .Animation-left-title input {
   width: 13.78px;
   height: 11.78px;
   background: #84E8F4;
@@ -141,7 +140,7 @@
   margin-top: 6px;
 }
 
-.illustration .illustration-left .illustration-left-title .span-one {
+.Animation .Animation-left .Animation-left-title .span-one {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -153,7 +152,7 @@
   margin-left: 42px;
 }
 
-.illustration .illustration-left .illustration-left-title .span-tow {
+.Animation .Animation-left .Animation-left-title .span-tow {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -165,17 +164,17 @@
   margin-left: 42px;
 }
 
-/* illustration-right */
-.illustration .illustration-right {
+/* Animation-right */
+.Animation .Animation-right {
   width: 634px;
-  height: 764px;
+  height: 799px;
   background: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 15px;
   margin-top: 2px;
 }
 
-.illustration .illustration-right h5 {
+.Animation .Animation-right h5 {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -188,12 +187,12 @@
   margin-bottom: 13px;
 }
 
-.illustration .illustration-right .size-right-form {
-  margin-top: 26px;
-  margin-left: 57px;
+.Animation .Animation-right .size-right-form {
+  margin-top: 40px;
+  margin-left: 58px;
 }
 
-.illustration .illustration-right .size-right-form .chek label {
+.Animation .Animation-right .size-right-form .chek label {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -201,17 +200,18 @@
   line-height: 16px;
   letter-spacing: -0.03em;
   color: #000000;
-  margin-top: 10px;
+  margin-top: 13px;
+  margin-left: 1px;
 }
 
-.illustration .illustration-right .size-right-form .chek input {
+.Animation .Animation-right .size-right-form .chek input {
   width: 12.62px;
   height: 12.62px;
-  margin-left: -23px;
-  margin-top: 12px;
+  margin-left: -22px;
+  margin-top: 16px;
 }
 
-.illustration .illustration-right .size-right-form .chek span {
+.Animation .Animation-right .size-right-form .chek span {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -220,108 +220,69 @@
   letter-spacing: -0.03em;
   color: #000000;
   opacity: 0.4;
-  margin-top: 11px;
+  margin-top: 13px;
   position: absolute;
-  margin-left: -13px;
 }
 
-.illustration .illustration-right .size-right-form .chek .chose {
-  margin-top: 82px;
 
+.Animation .Animation-right .size-right-form .cheks {
+  margin-top: -84px;
+  margin-left: -58px;
 }
 
-.illustration .illustration-right .size-right-form .chek .chose p {
+.Animation .Animation-right .size-right-form .cheks h5 {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
-  font-size: 18.7819px;
+  font-size: 18.7999px;
   line-height: 21px;
   letter-spacing: -0.03em;
   color: #51459E;
+  margin-top: 172px;
+  margin-left: 58px;
+  margin-bottom: 13px;
 }
 
-.illustration .illustration-right .size-right-form .chek .chose .chose-onw {
-  display: flex;
-  margin-left: 14px;
-}
-
-.illustration .illustration-right .size-right-form .chek .chose .chose-onw .chose-onw-pan-1 {
-  width: 30.29px;
-  height: 22.72px;
-  background: #D9D9D9;
-  opacity: 5;
-}
-
-.illustration .illustration-right .size-right-form .chek .chose .chose-onw .chose-onw-pan-2 {
-  width: 30.29px;
-  height: 22.72px;
-  background: #51459E;
-  margin-left: 16px;
-  opacity: 5;
-}
-
-.illustration .illustration-right .size-right-form .chek .chose .chose-tow {
-  display: flex;
-  margin-left: 132px;
-}
-
-.illustration .illustration-right .size-right-form .chek .chose .chose-tow .chose-tow-pan-1 {
-  width: 30.29px;
-  height: 22.72px;
-  background: #D9D9D9;
-  opacity: 5;
-}
-
-.illustration .illustration-right .size-right-form .chek .chose .chose-tow .chose-tow-pan-2 {
-  width: 30.29px;
-  height: 22.72px;
-  background: #84E8F4;
-  margin-left: 16px;
-  opacity: 5;
-}
-
-.illustration .illustration-right .size-right-form .chek  .uplode {
-  margin-top: 100px;
-}
-
-.illustration .illustration-right .size-right-form .chek  .uplode p {
+.Animation .Animation-right .size-right-form .cheks label {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
-  font-size: 18.7819px;
-  line-height: 21px;
-  letter-spacing: -0.03em;
-  color: #51459E;
-}
-
-.illustration .illustration-right .size-right-form .chek  .uplode span {
-  font-family: 'Factor A';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
+  font-size: 14.0999px;
   line-height: 16px;
   letter-spacing: -0.03em;
-  margin-left: 10px;
-  margin-top: 3px;
-  color: rgba(0, 0, 0, 0.5);
+  color: #000000;
+  margin-left: 12px;
+  margin-top: 40px;
 }
 
-.illustration .illustration-right .size-right-form .chek  .uplode button {
-  width: 149.92px;
-  height: 39.54px;
-  background: #51459E;
-  border-radius: 82.1708px;
-  border: none;
-  margin-top: 19px;
-  margin-left: 0px;
+.Animation .Animation-right .size-right-form .cheks input {
+  width: 12.62px;
+  height: 12.62px;
+  margin-left: 36px;
+  margin-top: 43px;
 }
 
-.illustration .illustration-right .illustration-right-form .butonssd {
-  margin-top: 60px;
+.Animation .Animation-right .size-right-form .cheks span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.0864px;
+  line-height: 15px;
+  letter-spacing: -0.03em;
+  color: #000000;
+  margin-left: 54px;
+  opacity: 0.4;
+  position: absolute;
+  margin-top: 12px;
+  margin-left: 60px;
+}
+
+.Animation .Animation-right .Animation-right-form .butonssd {
+  margin-top: 82px;
   margin-left: 90px;
 }
 
-.illustration .illustration-right .illustration-right-form .butonssd .onw-dark {
+.Animation .Animation-right .Animation-right-form .butonssd .onw-dark {
   width: 118.33px;
   height: 39.44px;
   background: #cccccc;
@@ -329,7 +290,7 @@
   border-radius: 82.1661px;
 }
 
-.illustration .illustration-right .illustration-right-form .butonssd .onw-dark .onw-dark-a {
+.Animation .Animation-right .Animation-right-form .butonssd .onw-dark .onw-dark-a {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;
@@ -340,7 +301,7 @@
   color: #51459E;
 }
 
-.illustration .illustration-right .illustration-right-form .butonssd .tow-dark {
+.Animation .Animation-right .Animation-right-form .butonssd .tow-dark {
   background: #84E8F4;
   border-radius: 82.1661px;
   width: 217px;
@@ -349,7 +310,7 @@
   margin-left: 9.88px;
 }
 
-.illustration .illustration-right .illustration-right-form .butonssd .tow-dark .tow-dark-a {
+.Animation .Animation-right .Animation-right-form .butonssd .tow-dark .tow-dark-a {
   font-family: 'Factor A';
   font-style: normal;
   font-weight: 400;

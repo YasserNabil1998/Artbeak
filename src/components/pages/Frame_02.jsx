@@ -63,7 +63,7 @@ function Frame_02() {
                   </div>
                   <div className="butonssd">
                     <button className='onw-dark'>
-                      <NavLink to="/Frame_02" class="onw-dark-a" style={{ color: "#51459E"}}>Back</NavLink>
+                      <NavLink to="/Frame_01" class="onw-dark-a" style={{ color: "#51459E"}}>Back</NavLink>
                     </button>
                     <button className='tow-dark'>
                       <NavLink to="/Frame_03" class="tow-dark-a" style={{ color: "#51459E"}}>Next: Voice and Settings</NavLink>

@@ -1,0 +1,247 @@
+.effects {
+  margin-top: 30px;
+  margin-bottom: 90px;
+}
+
+/* .Sound .Sound-left */
+.effects .effects-left {
+  width: 506px;
+  height: 936px;
+  background: #51459E;
+  border-radius: 15px;
+  margin-left: -1px;
+  margin-top: 1px;
+}
+
+.effects .effects-left .effects-left-top {
+  margin-top: 24px;
+}
+
+.effects .effects-left .effects-left-top .progress {
+  background: #776FAB;
+  border-radius: 5.44182px;
+  width: 460.4px;
+  height: 9px;
+}
+
+.effects .effects-left .effects-left-top .progress .progress-bar {
+  background: #84E8F4;
+  border-radius: 4.37955px;
+}
+
+.effects .effects-left .effects-left-top .small-list {
+  display: flex;
+  margin-top: 9px;
+  margin-left: 8px;
+}
+
+.effects .effects-left .effects-left-top .small-list .small-1 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+}
+
+.effects .effects-left .effects-left-top .small-list .small-2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+  margin-left: 41px;
+}
+
+.effects .effects-left .effects-left-top .small-list .small-3 {
+  margin-left: 30px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+}
+
+.effects .effects-left .effects-left-top .small-list .small-4 {
+  margin-left: 35px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+}
+
+.effects .effects-left .effects-left-top .small-list .small-5 {
+  margin-left: 31px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.8765px;
+  line-height: 22px;
+  letter-spacing: -0.184065px;
+  color: #84E8F4;
+}
+
+.effects .effects-left .effects-left-title {
+  margin-top: 71px;
+}
+
+.effects .effects-left .effects-left-title h4 {
+  width: 234.64px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 33.5578px;
+  line-height: 37px;
+  letter-spacing: -0.03em;
+
+  color: #FFFFFF;
+  margin-left: 19px;
+}
+
+.effects .effects-left .effects-left-title p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-top: 46px;
+  margin-left: 20px;
+  width: 253.08px;
+}
+
+
+/* Sound-right */
+.effects .effects-right {
+  width: 634px;
+  height: 935px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  margin-top: 2px;
+}
+
+.effects .effects-right h5 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20.6383px;
+  line-height: 23px;
+  letter-spacing: -0.03em;
+  color: #51459E;
+  margin-top: 112px;
+  margin-left: -14px;
+  margin-bottom: 13px;
+}
+
+.effects .effects-right .effects-right-form {
+  margin-top: 40px;
+  margin-left: 58px;
+}
+
+.effects .effects-right .effects-right-form .cd {
+  background: #51459E;
+  border-radius: 15px;
+  width: 504.73px;
+  height: 156.12px;
+  margin-top: 45px;
+    margin-left: -25px;
+}
+.effects .effects-right .effects-right-form .cd .xc{
+  margin-top: 33px;
+    margin-left: 21px;
+}
+.effects .effects-right .effects-right-form .cd .xc label{
+  font-family: 'Factor A';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 27px;
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+margin-top: 33px;
+margin-left: -23px;
+}
+.effects .effects-right .effects-right-form .cd .xc input{
+  position: absolute;
+  width: 17.08px;
+  height: 17.08px;
+  margin-left: 237px;
+  margin-top: 28px;
+  background: #84E8F4;
+}
+.effects .effects-right .effects-right-form .cd .xc span{
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  letter-spacing: -0.03em;
+  color: #FFFFFF;
+  margin-left: -23px;
+  position: absolute;
+  margin-top: 21px;
+}
+.effects .effects-right .effects-right-form .cd .xc small{
+  font-family: 'Factor A';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 16px;
+letter-spacing: -0.03em;
+
+color: #84E8F4;
+}
+.effects .effects-right .effects-right-form .butonssd {
+  margin-top: 134px;
+  margin-left: 207px;
+
+}
+
+.effects .effects-right .effects-right-form .butonssd .onw-dark {
+  width: 118.33px;
+  height: 39.44px;
+  background: #cccccc;
+  border: none;
+  border-radius: 82.1661px;
+}
+
+.effects .effects-right .effects-right-form .butonssd .onw-dark .onw-dark-a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.4332px;
+  line-height: 28px;
+  letter-spacing: -0.278101px;
+  opacity: 5;
+  color: #51459E;
+}
+
+.effects .effects-right .effects-right-form .butonssd .tow-dark {
+  background: #84E8F4;
+  border-radius: 82.1661px;
+  width: 138.43px;
+  height: 39.43px;
+  border: none;
+  margin-left: 9.88px;
+}
+
+.effects .effects-right .effects-right-form .butonssd .tow-dark .tow-dark-a {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.4499px;
+  line-height: 28px;
+  letter-spacing: -0.278383px;
+  color: #51459E;
+}

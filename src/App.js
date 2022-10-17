@@ -17,6 +17,10 @@ import Frame_04 from "./components/pages/Frame_04";
 import Frame_05 from "./components/pages/Frame_05";
 import Frame_06 from "./components/pages/Frame_06";
 import Frame_07 from "./components/pages/Frame_07";
+import Frame_08 from "./components/pages/Frame_08";
+import Frame_09 from "./components/pages/Frame_09";
+import Frame_10 from "./components/pages/Frame_10";
+import Frame_11 from "./components/pages/Frame_11";
 
 function App() {
   return (
@@ -38,6 +42,11 @@ function App() {
           <Route path="/Frame_05" element={<Frame_05 />} />
           <Route path="/Frame_06" element={<Frame_06 />} />
           <Route path="/Frame_07" element={<Frame_07 />} />
+          <Route path="/Frame_08" element={<Frame_08 />} />
+          <Route path="/Frame_09" element={<Frame_09 />} />
+          <Route path="/Frame_10" element={<Frame_10 />} />
+          <Route path="/Frame_11" element={<Frame_11 />} />
+
         </Routes>
       </Router>
       <Footer />

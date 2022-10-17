@@ -17,7 +17,7 @@ function Footer() {
                 <br />
                 Quality Explainer video in no time.
               </p>
-              <div class="top-links" style={{ marginLeft: "29px", marginTop: "24px" }}>
+              <div class="top-links" style={{ marginLeft: "19px", marginTop: "24px" }}>
                 <img src="../assets/img/LinkedIn.svg" />
                 <img src="../assets/img/Facebook.svg" />
                 <img src="../assets/img/Twitter.svg" />

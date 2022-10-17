@@ -62,12 +62,12 @@ const Frame07 = () => {
                       <button>Upload</button>
                     </div>
                   </div>
-                  <div className="butonssd">
+                  <div className="butonssd"> 
                     <button className='onw-dark'>
                       <NavLink to="/Frame_06" class="onw-dark-a" style={{ color: "#51459E" }}>Back</NavLink>
                     </button>
                     <button className='tow-dark'>
-                      <NavLink to="/Frame_07" class="tow-dark-a" style={{ color: "#51459E" }}>Next: Illustration</NavLink>
+                      <NavLink to="/Frame_08" class="tow-dark-a" style={{ color: "#51459E" }}>Next: Illustration</NavLink>
                     </button>
                   </div>
                 </form>
