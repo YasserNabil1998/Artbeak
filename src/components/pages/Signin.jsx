@@ -62,7 +62,7 @@ export default function
             <div className='hr-or'>or</div>
             <div className='hr-right'></div>
           </div>
-          <div className="form">
+          <div className="forms">
             <form action="">
               <div class="mb-3">
                 <TextField
@@ -96,13 +96,13 @@ export default function
                   />
                 </FormControl>
               </div>
-              <div class="mb-3 forget">
+              <div class="mb-3 forgets">
                 <FormControlLabel control={<Checkbox defaultChecked />} label="Keep me logged in" />
                 <a href="">Forgot Password?</a>
               </div>
             </form>
           </div>
-          <div className='col-md-12 accont'>
+          <div className='col-md-12 acconts'>
             <button>
               <NavLink to="/Signin" class="btn btn-outline-dark">Sign in</NavLink>
             </button>

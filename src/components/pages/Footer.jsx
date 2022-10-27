@@ -37,7 +37,7 @@ function Footer() {
               </div>
               <div class="onw col-sm-4">
                 <h3 style={{ marginLeft: "-14px", marginTop: "px" }}>clients</h3>
-                <div class="tow" style={{ marginTop: "44px", marginLeft: "-26px" }}>
+                <div class="tow" style={{ marginTop: "46px", marginLeft: "-15px" }}>
                   <p>Sign up as a Client</p>
                   <p>Terms & Conditions</p>
                   <p>Payament Process</p>
@@ -46,7 +46,7 @@ function Footer() {
               <div class="onw col-sm-4">
 
                 <h3 style={{ marginLeft: "-2px", marginTop: "3px" }}>company</h3>
-                <div class="tow" style={{ marginTop: "43px", marginLeft: "-16px" }}>
+                <div class="tow" style={{ marginTop: "43px", marginLeft: "-4px" }}>
                   <p>Pravicy police</p>
                   <p>Contact</p>
                   <p>About us</p>

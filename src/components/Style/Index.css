@@ -1,4 +1,3 @@
-
 /* main */
 #main {
   margin-top: 40px;
@@ -11,7 +10,7 @@
   background: #51459E;
   box-shadow: 0px 11.6667px 36.6667px rgb(81 69 158 / 20%);
   border-radius: 15px;
-  margin-left: 0px;
+  margin-left: -1px;
   margin-top: -9px;
 }
 
@@ -23,7 +22,7 @@
   padding: 20px;
   color: #84E8F4;
   margin-top: 8px;
-  margin-left: 0.6px;
+  margin-left: 3.6px;
 }
 
 .top-welcom p {
@@ -34,7 +33,7 @@
   line-height: 13px;
   color: #DEE1E6;
   margin-top: -17px;
-  margin-left: 21px;
+  margin-left: 25px;
 }
 
 .top-welcom .button1 {
@@ -61,12 +60,12 @@
   font-size: 12px;
   line-height: 11px;
   color: #DEE1E6;
-  width: 102.81px;
+  width: 109.81px;
   height: 36.77px;
   border: 0.833333px solid #DEE1E6;
   border-radius: 41.6667px;
   background: none;
-  margin-left: 9px;
+  margin-left: 6px;
   margin-top: 0px;
   position: relative;
 }
@@ -157,7 +156,7 @@
   right: 77.46%;
   top: -96%;
   bottom: 61.71%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -172,7 +171,7 @@
   right: 52.1%;
   top: -110.35%;
   bottom: 62.15%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -212,7 +211,7 @@
   right: 72.41%;
   top: -75%;
   bottom: 62.75%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -226,7 +225,7 @@
   left: 58px;
   top: -105%;
   bottom: 61.71%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -241,7 +240,7 @@
   right: 54.1%;
   top: -113.35%;
   bottom: 62.15%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -280,7 +279,7 @@
   right: 72.41%;
   top: -67%;
   bottom: 62.75%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -310,7 +309,7 @@
   right: 54.1%;
   top: -114%;
   bottom: 62.15%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -347,7 +346,7 @@
   width: 13px;
 }
 
-.top-top .open span img{
+.top-top .open span img {
   width: 13px;
   height: 10.82px;
 
@@ -392,7 +391,7 @@
   right: 27.7%;
   top: 32.28%;
   bottom: 62.12%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -408,7 +407,7 @@
   right: 7.86%;
   top: 36.42%;
   bottom: 62.29%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -434,7 +433,7 @@
   right: 27.7%;
   top: 33.28%;
   bottom: 62.12%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -450,7 +449,7 @@
   right: 7.86%;
   top: 37.42%;
   bottom: 62.29%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -463,7 +462,7 @@
   margin-left: 77%;
   margin-top: 154px;
   bottom: 43.38%;
-  font-family:  'Product Sans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -473,7 +472,7 @@
 }
 
 .top-button .open span {
-  margin-left: 3px;
+  margin-left: 0px;
   width: 13px;
 }
 
@@ -511,7 +510,7 @@
   position: absolute;
   width: 202px;
   height: 37px;
-  left: calc(50% - 202px/2 + 440.29px);
+  left: calc(50% - 202px/2 + 439.29px);
   top: 843.96px;
   background: #808080;
   border-radius: 410px;
@@ -522,7 +521,9 @@
   font-size: 15px;
   line-height: 16px;
   color: #FFFFFF;
-}@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 768px) {
 
   .container {
     max-width: 720px;
@@ -866,9 +867,11 @@
     margin-left: 0;
     margin-top: 0;
   }
+
   .top-welcom p {
     font-size: 14px;
   }
+
   #menu-icon {
     margin-left: 71%;
   }
@@ -876,11 +879,13 @@
   .top-welcom .button1 {
     left: 0;
   }
+
   .top .top-top .buttons p {
     margin-left: 14px;
     margin-top: 4px;
     right: 0;
-}
+  }
+
   .top .top-top .buttons {
     margin-left: 0px;
     width: 341px;
@@ -915,7 +920,7 @@
     position: relative;
     left: 40.97%;
     top: -114.35%;
-}
+  }
 
   .top .top-top .buttons .img {
     position: relative;

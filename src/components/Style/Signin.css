@@ -5,6 +5,7 @@
   border: 1px solid #CACACB;
   border-radius: 15px;
   margin-bottom: 100px;
+  margin-left: 249px;
 }
 
 .sigin h1 {
@@ -35,7 +36,7 @@
 .sigin .top .button-googel img {
   width: 26px;
   height: 26px;
-  margin-left: -210px;
+  margin-left: -211px;
   top: 303px;
   position: absolute;
 }
@@ -47,7 +48,8 @@
   font-size: 15px;
   line-height: 18px;
   color: #000000;
-  margin-left: -1%;
+  margin-left: -2px;
+  margin-top: 5px;
 }
 
 .sigin .button {
@@ -66,7 +68,7 @@
 .sigin .button .button-googel img {
   width: 40px;
   height: 30px;
-  margin-left: -210px;
+  margin-left: -212px;
   top: 360px;
   position: absolute;
 }
@@ -112,11 +114,11 @@
   position: absolute;
 }
 
-.form {
-  margin-top: 59px;
+.forms {
+  margin-top: 57px;
 }
 
-.form .top-input {
+.forms .top-input {
   width: 576px;
   height: 48px;
   margin-left: 13%;
@@ -124,7 +126,7 @@
   margin-top: -6px;
 }
 
-.form .button-input {
+.forms .button-input {
   width: 576px;
   height: 48px;
   margin-left: 13%;
@@ -132,19 +134,19 @@
   margin-top: 7px;
 }
 
-.form .top-input div {
+.forms .top-input div {
   height: 49px;
 }
 
-.form .button-input input {
+.forms .button-input input {
   height: 14px;
 }
 
-.forget{
-  margin-top: -19px;
+.forgets{
+  margin-top: -17px;
 }
 
-.forget a {
+.forgets a {
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -153,33 +155,35 @@
   color: #51459E;
   margin-left: 41%;
 }
-.forget label{
+.forgets label{
   margin-left: 12%;
 }
-.forget .MuiFormControlLabel-label {
+.forgets .MuiFormControlLabel-label {
+  font-family: 'Product Sans ';
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
   line-height: 15px;
   text-align: center;
+  
   color: #51459E;
 }
 /* accont */
-.accont {
-  margin-top: -1px;
+.acconts {
+  margin-top: -3px;
   text-align: center;
-  margin-left: -10px;
+  margin-left: -11px;
 }
 
-.accont button {
+.acconts button {
   background: #51459E;
-  border-radius: 15px;
+  border-radius: 41.6667px;
   width: 576px;
   height: 53px;
   border: none;
 }
 
-.accont button a {
+.acconts button a {
 
   font-family: 'Factor A';
   font-style: normal;
@@ -187,11 +191,11 @@
   font-size: 20px;
   line-height: 22px;
   color: #84E8F4;
-
+  margin-left: -9px;
 
 }
 
-.accont p {
+.acconts p {
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -199,10 +203,10 @@
   text-align: center;
   color: #000000;
   margin-top: 16px;
-  margin-left: -19px;
+  margin-left: -36px;
 }
 
-.accont a {
+.acconts a {
   color: #51459E;
-  margin-left: 5px;
+  margin-left: 2px;
 }

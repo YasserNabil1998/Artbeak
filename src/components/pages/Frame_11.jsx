@@ -60,7 +60,7 @@ function Frame_11() {
                       <NavLink to="/Frame_10" class="onw-dark-a" style={{ color: "#51459E" }}>Back</NavLink>
                     </button>
                     <button className='tow-dark'>
-                      <NavLink to="/Frame_11" class="tow-dark-a" style={{ color: "#51459E" }}>Complete</NavLink>
+                      <NavLink to="/Frame_12" class="tow-dark-a" style={{ color: "#51459E" }}>Complete</NavLink>
                     </button>
                   </div>
                 </form>

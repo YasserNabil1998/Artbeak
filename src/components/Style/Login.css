@@ -8,8 +8,7 @@
   border: 1px solid #CACACB;
   border-radius: 15px;
   margin-bottom: 99px;
-  margin-left: 258px;
-
+  margin-left: 249px;
 }
 
 .titel h1 {
@@ -130,6 +129,7 @@
   width: 226px;
   height: 37px;
   border: none;
+  margin-top: -1px;
 }
 
 .login .accont button a {

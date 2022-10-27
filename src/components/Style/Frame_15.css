@@ -1,0 +1,601 @@
+.scripts {
+  margin-top: 30px;
+}
+
+.scripts .scripts-top {
+  box-sizing: border-box;
+  width: 1140px;
+  height: 314.83px;
+  margin-left: -1px;
+  background: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  border-radius: 15px;
+
+}
+
+.scripts .scripts-top .boil {
+  display: flex;
+  margin-top: 72px;
+  margin-left: 202px;
+}
+
+.scripts .scripts-top .boil .boil-Voice p {
+  width: 54.37px;
+  height: 55.37px;
+  background: #51459E;
+  border-radius: 50px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30.5414px;
+  line-height: 64px;
+  letter-spacing: -0.506487px;
+  color: #84E8F4;
+  padding-left: 21px;
+  margin-top: -1px;
+  margin-left: 0px;
+}
+
+.scripts .scripts-top .boil .boil-Voice span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  margin-left: -14px;
+}
+
+.scripts .scripts-top .boil .boil-Voice small {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  opacity: 0.5;
+  margin-left: -7px;
+  margin-top: 45px;
+  position: absolute;
+}
+
+.scripts .scripts-top .boil .boil-onw {
+  border: 4px solid #51459E;
+  width: 112.81px;
+  background: #51459E;
+  height: 0px;
+  margin-left: -11px;
+  margin-top: 24px;
+  opacity: 5;
+}
+
+/* Storyborad */
+.scripts .scripts-top .boil .boil-Storyborad p {
+  width: 54.37px;
+  height: 55.37px;
+  background: #51459E;
+  border-radius: 50px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30.5414px;
+  line-height: 64px;
+  letter-spacing: -0.506487px;
+  color: #84E8F4;
+  padding-left: 17px;
+  margin-top: -1px;
+  margin-left: 0px;
+}
+
+.scripts .scripts-top .boil .boil-Storyborad span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  margin-left: -14px;
+}
+
+.scripts .scripts-top .boil .boil-Storyborad small {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  opacity: 0.5;
+  margin-left: -76px;
+  margin-top: 70px;
+  position: absolute;
+}
+
+.scripts .scripts-top .boil .boil-tow {
+  border: 4px solid #51459E;
+  width: 112.81px;
+  background: #51459E;
+  height: 0px;
+  margin-left: -18px;
+  margin-top: 24px;
+  opacity: 5;
+}
+
+/* Illustration */
+.scripts .scripts-top .boil .boil-Illustration p {
+  width: 54.37px;
+  height: 55.37px;
+  background: #51459E;
+  border-radius: 50px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30.5414px;
+  line-height: 64px;
+  letter-spacing: -0.506487px;
+  color: #84E8F4;
+  padding-left: 15px;
+  margin-top: -1px;
+  margin-left: -2px;
+}
+
+.scripts .scripts-top .boil .boil-Illustration span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  margin-left: -13px;
+}
+
+.scripts .scripts-top .boil .boil-Illustration small {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  opacity: 0.5;
+  margin-left: -67px;
+  margin-top: 70px;
+  position: absolute;
+}
+
+.scripts .scripts-top .boil .boil-threr {
+  border: 4px solid #51459E;
+  width: 112.81px;
+  background: #51459E;
+  height: 0px;
+  margin-left: -14px;
+  margin-top: 24px;
+  opacity: 5;
+}
+
+/* Animation */
+.scripts .scripts-top .boil .boil-Animation p {
+  width: 54.37px;
+  height: 55.37px;
+  background: #51459E;
+  border-radius: 50px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30.5414px;
+  line-height: 64px;
+  letter-spacing: -0.506487px;
+  color: #84E8F4;
+  padding-left: 15px;
+  margin-top: -1px;
+  margin-left: -1px;
+}
+
+.scripts .scripts-top .boil .boil-Animation span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  margin-left: -11px;
+}
+
+.scripts .scripts-top .boil .boil-Animation small {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  opacity: 0.5;
+  margin-left: -67px;
+  margin-top: 70px;
+  position: absolute;
+}
+
+.scripts .scripts-top .boil .boil-for {
+  border: 4px solid #51459E;
+  width: 112.81px;
+  background: #51459E;
+  height: 0px;
+  margin-left: -14px;
+  margin-top: 24px;
+  opacity: 5;
+}
+
+/* Effects */
+.scripts .scripts-top .boil .boil-Effects p {
+  width: 54.37px;
+  height: 55.37px;
+  background: #51459E;
+  border-radius: 50px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30.5414px;
+  line-height: 64px;
+  letter-spacing: -0.506487px;
+  color: #84E8F4;
+  padding-left: 18px;
+  margin-top: -1px;
+  margin-left: 0px;
+}
+
+.scripts .scripts-top .boil .boil-Effects span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  margin-left: -18px;
+}
+
+.scripts .scripts-top .boil .boil-Effects small {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  opacity: 0.5;
+  margin-left: -89px;
+  margin-top: 70px;
+  position: absolute;
+}
+
+/* scripts .scripts-button */
+.scripts .scripts-button {
+  width: 1140px;
+  height: 425.54px;
+  margin-top: 32px;
+  background: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  border-radius: 15px;
+}
+
+.scripts .scripts-button h2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22.2119px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #51459E;
+  margin-left: 48px;
+  margin-top: 72px;
+}
+
+.scripts .scripts-button .scripts-button-one {
+  margin-left: 47px;
+  margin-top: 50px;
+}
+
+.scripts .scripts-button .scripts-button-one .one-bth {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  background: #D9D9D9;
+  border-radius: 27.7649px;
+  border: none;
+  padding: 12px;
+}
+
+.scripts .scripts-button .scripts-button-one .onw {
+  width: 330.08px;
+  height: 42.23px;
+  padding-left: 1px;
+}
+
+.scripts .scripts-button .scripts-button-one .tow {
+  width: 182.27px;
+  height: 42.23px;
+  margin-left: 12px;
+}
+
+.scripts .scripts-button .scripts-button-one .ther {
+  width: 266.73px;
+  height: 42.23px;
+  margin-left: 11px;
+}
+
+.scripts .scripts-button .scripts-button-one .for {
+  width: 204.5px;
+  height: 42.23px;
+  margin-left: 11px;
+}
+
+.scripts .scripts-button .scripts-button-tow {
+  margin-left: 47px;
+  margin-top: 35px;
+}
+
+.scripts .scripts-button .scripts-button-tow .tow-bth {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #000000;
+  background: #D9D9D9;
+  border-radius: 27.7649px;
+  border: none;
+}
+
+.scripts .scripts-button .scripts-button-tow .onw {
+  width: 231.17px;
+  height: 42.23px;
+  padding-left: 1px;
+  padding-left: 11px;
+  padding-top: 4px;
+}
+
+.scripts .scripts-button .scripts-button-tow .tow {
+  width: 211.16px;
+  height: 42.23px;
+  margin-left: 12px;
+  padding-left: 11px;
+  padding-top: 4px;
+}
+
+.scripts .scripts-button .scripts-button-tow .ther {
+  width: 552.36px;
+  height: 42.23px;
+  margin-left: 11px;
+}
+
+.scripts .scripts-button .scripts-button-tow .ther span {
+  color: #000000;
+  opacity: 0.5;
+}
+
+.scripts .scripts-button .scripts-button-tow .ther small {
+  color: #51459E;
+}
+
+.scripts .scripts-button .buttons {
+  background: #bcbcbc;
+  border-radius: 27.7649px;
+  width: 1023.59px;
+  height: 43.23px;
+  border: none;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6589px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #ffff;
+  margin-top: 80px;
+  margin-left: 47px;
+
+  padding-right: 58px;
+  padding-top: 7px;
+
+}
+
+.scripts .scripts-button .your {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22.2119px;
+  line-height: 22px;
+  letter-spacing: -0.184177px;
+  color: #51459E;
+  margin-left: 48px;
+  margin-top: 82px;
+}
+
+/*  scripts-profile */
+.scripts .scripts-profile {
+  background: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  border-radius: 15px;
+  width: 1140px;
+  height: 1656px;
+  margin-top: 36px;
+}
+
+.scripts .scripts-profile h2 {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22.1747px;
+  line-height: 22px;
+  letter-spacing: -0.183869px;
+  color: #51459E;
+  margin-left: 43px;
+  margin-top: 67px;
+}
+
+.scripts .scripts-profile .scripts-profile-one {
+  width: 1025.51px;
+  height: 233.88px;
+  border: 1.10874px solid #CCCCCC;
+  border-radius: 15px;
+  margin-left: 43px;
+  margin-top: 62px;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-left .img {
+  width: 157.05px;
+  height: 156.96px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: -3px;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-left .pro-left-tite {
+  margin-left: 33px;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-left .pro-left-tite p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.1747px;
+  line-height: 20px;
+  letter-spacing: -0.170477px;
+  color: #171717;
+  margin-top: 14px;
+  margin-left: -1px;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-left .pro-left-tite span {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.631px;
+  line-height: 33px;
+  letter-spacing: -0.170477px;
+  color: #7C7C7C;
+  margin-top: -9px;
+  position: absolute;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-left .pro-left-tite .pro-left-tar {
+  margin-top: 75px;
+  display: flex;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-left .pro-left-tite .pro-left-tar .start img {
+  width: 22px;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-left .pro-left-tite .pro-left-tar small {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.631px;
+  line-height: 17px;
+  letter-spacing: -0.170477px;
+  color: #50357A;
+  margin-top: 10px;
+  margin-left: 13px;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-right .Open {
+  background: #51459E;
+  border-radius: 27.7184px;
+  width: 227.37px;
+  height: 42.22px;
+  border: none;
+  margin-left: 217px;
+  margin-top: 61px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16.631px;
+  line-height: 22px;
+  letter-spacing: -0.223049px;
+  color: #FFFFFF;
+}
+
+.scripts .scripts-profile .scripts-profile-one .pro-right .Change {
+  background: #B3B3B3;
+  border-radius: 27.7184px;
+  width: 227.37px;
+  height: 42.22px;
+  border: none;
+  margin-left: 217px;
+  margin-top: 17px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.631px;
+  line-height: 22px;
+  letter-spacing: -0.223049px;
+  color: #000000;
+}
+
+.scripts .scripts-profile .scripts-profile-tow {
+  margin-top: 66px;
+  margin-left: 2px;
+}
+
+.scripts .scripts-profile .scripts-profile-tow p {
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  color: #000000;
+  margin-left: 26px;
+    margin-top: 10px;
+}
+.scripts .scripts-profile .scripts-profile-tow .line{
+  margin-left: 173px;
+  margin-top: 80px;
+  position: absolute;
+  width: 0px;
+  height: 811px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.scripts .scripts-profile .scripts-profile-tow .drop {
+  display: flex;
+  margin-left: 158px;
+  margin-top: 70px;
+}
+.scripts .scripts-profile .scripts-profile-tow .drop .drop-img1{
+position: relative;
+margin-top: -11px;
+margin-left: 0px;
+}
+.scripts .scripts-profile .scripts-profile-tow .drop .drop-img2{
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 6px;
+  }
+
+
+.scripts .scripts-profile .buttons {
+  background: #51459E;
+  border-radius: 27.7184px;
+  width: 1025.51px;
+  height: 42.22px;
+  font-family: 'Factor A';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16.631px;
+  line-height: 22px;
+  border: none;
+  margin-top: 138px;
+  margin-left: 43px;
+  letter-spacing: -0.223049px;
+
+  color: #FFFFFF;
+}
