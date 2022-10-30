@@ -7,8 +7,8 @@ import { NavLink } from 'react-router-dom';
 function Frame_13() {
   return (
     <>
-      <Navbar />
-      <div className="scripts">
+      <Navbar /> 
+      <div className="scripts "> 
         <div className="container">
           <div className="row">
             <div className="scripts-top">
@@ -45,7 +45,7 @@ function Frame_13() {
                 </div>
               </div>
             </div>
-            <div className="scripts-button">
+            <div className="scripts-button ffdd">
               <h2>Voice Over Stage</h2>
               <div className="scripts-button-one">
                 <button className='one-bth onw'>My company website explainer video</button>

@@ -8,7 +8,7 @@ function Frame_15() {
   return (
     <>
       <Navbar />
-      <div className="scripts">
+      <div className="scripts ">
         <div className="container">
           <div className="row">
             <div className="scripts-top">
@@ -61,7 +61,7 @@ function Frame_15() {
               <button className='buttons'> Still on Progress</button>
 
             </div>
-            <div className="scripts-profile">
+            <div className="scripts-profile dfdfd">
               <h2>Hire Vince - Voice Over Stage</h2>
               <div className="scripts-profile-one">
                 <div className="row">

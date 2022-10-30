@@ -1,6 +1,8 @@
 .scripts {
   margin-top: 30px;
+
 }
+.margin{  margin-bottom: 53%;}
 
 .scripts .scripts-top {
   box-sizing: border-box;
@@ -281,6 +283,9 @@
   background: #FFFFFF;
   border: 1px solid #CCCCCC;
   border-radius: 15px;
+}
+.ffdd{
+  height: 1041.37px !important;
 }
 
 .scripts .scripts-button h2 {

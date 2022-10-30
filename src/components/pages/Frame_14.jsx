@@ -3,11 +3,11 @@ import Navbar from './Navbar';
 import "../Style/Frame_14.css";
 import { NavLink } from 'react-router-dom';
 
-function Frame_14() {
+function Frame_14() { 
   return (
     <>
       <Navbar />
-      <div className="scripts">
+      <div className="scripts" style={{ marginBotton: "53%" }}>
         <div className="container">
           <div className="row">
             <div className="scripts-top">
@@ -60,7 +60,7 @@ function Frame_14() {
               <button className='buttons'> Still on Progress</button>
 
             </div>
-            <div className="scripts-profile">
+            <div className="scripts-profile het">
               <h2>Hire Vince - Voice Over Stage</h2>
               <div className="scripts-profile-one">
                 <div className="row">
@@ -92,7 +92,7 @@ function Frame_14() {
                 <p>Contract Terms</p>
                 <p style={{ marginTop: "56px" }}> Create a Mileston to start working</p>
                 <p style={{ marginTop: "45px" }}>You’re protected by <span>Artbeak Payment Protection.</span>  Only pay for the work you authorize.</p>
-                <p style={{ marginTop: "45px", marginLeft: "30px" }}>I Read and Agree to Artbeak <span>Terms of Service</span> including the Privacy Policy and the <span>Artist Contract.</span> </p>
+                <p style={{ marginTop: "54px", marginLeft: "78px" }}>I Read and Agree to Artbeak <span>Terms of Service</span> including the Privacy Policy and the <span>Artist Contract.</span> </p>
               </div>
               <button className='buttons'> 
               <NavLink to="/Frame_15" class="tow-dark-a" style={{ color: "#ffff", background: "#51459E" }}>Create Milestone</NavLink>

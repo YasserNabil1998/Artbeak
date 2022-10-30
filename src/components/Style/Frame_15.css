@@ -1,7 +1,7 @@
 .scripts {
   margin-top: 30px;
 }
-
+.margin{  margin-bottom: 53%;}
 .scripts .scripts-top {
   box-sizing: border-box;
   width: 1140px;
@@ -426,10 +426,12 @@
   border: 1px solid #CCCCCC;
   border-radius: 15px;
   width: 1140px;
-  height: 1656px;
+  height: 902px;
   margin-top: 36px;
 }
-
+.dfdfd{
+  height: 1656px !important;
+}
 .scripts .scripts-profile h2 {
   font-family: 'Factor A';
   font-style: normal;
@@ -554,8 +556,8 @@
   font-size: 18px;
   line-height: 120%;
   color: #000000;
-  margin-left: 26px;
-    margin-top: 10px;
+  margin-left: 43px;
+  margin-top: 10px;
 }
 .scripts .scripts-profile .scripts-profile-tow .line{
   margin-left: 173px;
@@ -593,9 +595,10 @@ margin-left: 0px;
   font-size: 16.631px;
   line-height: 22px;
   border: none;
-  margin-top: 138px;
+  margin-top: 58px;
   margin-left: 43px;
   letter-spacing: -0.223049px;
-
   color: #FFFFFF;
+  padding-right: 42px;
+
 }

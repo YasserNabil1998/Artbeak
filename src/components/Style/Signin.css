@@ -149,24 +149,25 @@
 .forgets a {
   font-style: normal;
   font-weight: 300;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 15px;
   text-align: center;
   color: #51459E;
-  margin-left: 41%;
+  margin-left: 42%;
 }
 .forgets label{
   margin-left: 12%;
 }
 .forgets .MuiFormControlLabel-label {
-  font-family: 'Product Sans ';
+ 
+  font-family: 'Product Sans', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
-  line-height: 15px;
-  text-align: center;
-  
-  color: #51459E;
+  line-height: 25px;
+  color: #000000;
+  margin-left: -6px;
+  margin-top: -10px;
 }
 /* accont */
 .acconts {
