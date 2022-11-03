@@ -62,7 +62,10 @@ function Navbar() {
               </ul>
             </div>
             <div class="left Navbar__Items">
+              {/* <p class="Asset"> */}
               <img src="../assets/img/Asset 10 1.svg" class="Asset" />
+              {/* </p> */}
+              
               <ClickAwayListener onClickAway={handleClickAway}>
                 <Box sx={{ position: 'relative' }}>
                     <img src="../assets/iamges/Group 33810.svg" onClick={handleClick} class="Profile" />
