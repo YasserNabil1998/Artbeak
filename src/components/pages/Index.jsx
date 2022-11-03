@@ -17,7 +17,7 @@ function Index() {
                 <p>Start Making Your High Quality Explainer Video.</p>
                 <div style={{ display: "flex", marginLeft: "24px", marginTop: "32px" }}>
                   <button class="button1"> 
-                  <NavLink to="/Frame_01" class="btn btn-outline-dark" style={{color:" #51459E !important"}} >Create Explainer</NavLink>
+                  <NavLink to="/Frame_01" class="btn btn-outline-dark" style={{color: "#51459E !important"}} >Create Explainer</NavLink>
                   </button>
                   <button class="button2">Upgrade plan</button>
                 </div>
@@ -79,7 +79,7 @@ function Index() {
                   <NavLink to="/Projects" class="btn btn-outline-dark">Open Project </NavLink>
                 </div>
                 <p class="open">
-                  <NavLink to="/Projects" class="btn btn-outline-dark">Open My Projects </NavLink>
+                  <NavLink to="/Projects" class="btn btn-outline-dark" >Open My Projects </NavLink>
                   <span>
                     <img src="../assets/iamges/arrow.svg" alt="" />
                   </span></p>

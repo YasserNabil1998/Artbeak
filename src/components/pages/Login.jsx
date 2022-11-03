@@ -33,7 +33,7 @@ function Login() {
           </div>
           <div className='col-md-12 accont'>
             <button>
-              <NavLink to="/register" class="btn btn-outline-dark">Create Account </NavLink>
+              <NavLink to="/Signup" class="btn btn-outline-dark">Create Account </NavLink>
             </button>
             <p>Already have an account?
               <NavLink to="/Signin" class="btn btn-outline-dark">Log in</NavLink>
